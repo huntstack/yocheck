@@ -5,7 +5,7 @@
  * @version yocheck 1.0
  * @author  huntstack <huntstack@gmail.com>
  * @date    2014-07-09 20:35:10
- * @site 	https://github.com/huntstack
+ * @site 	https://github.com/huntstack/yocheck
  */
 
 define('ROOT', dirname(dirname(__FILE__))); 

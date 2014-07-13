@@ -1,0 +1,112 @@
+19:52:01 [INFO] start to paser command line paramers.
+19:52:01 [INFO] paser command line parameters done.
+19:52:01 [INFO] start scan files.
+19:52:01 [INFO] scan files done. 1 files will be checked.
+19:57:48 [INFO] start to paser command line paramers.
+19:57:48 [INFO] paser command line parameters done.
+19:57:48 [INFO] start scan files.
+19:57:48 [INFO] scan files done. 1 files will be checked.
+20:02:51 [INFO] start to paser command line paramers.
+20:02:51 [INFO] paser command line parameters done.
+20:02:51 [INFO] start scan files.
+20:02:51 [INFO] scan files done. 51 files will be checked.
+20:04:49 [INFO] start to paser command line paramers.
+20:04:49 [INFO] paser command line parameters done.
+20:04:49 [INFO] start scan files.
+20:04:49 [INFO] scan files done. 12 files will be checked.
+20:06:07 [INFO] start to paser command line paramers.
+20:06:07 [INFO] paser command line parameters done.
+20:06:07 [INFO] start scan files.
+20:06:07 [INFO] scan files done. 12 files will be checked.
+20:08:04 [INFO] start to paser command line paramers.
+20:08:04 [INFO] paser command line parameters done.
+20:08:04 [INFO] start scan files.
+20:08:04 [INFO] scan files done. 1 files will be checked.
+20:09:18 [INFO] start to paser command line paramers.
+20:09:18 [INFO] paser command line parameters done.
+20:09:18 [INFO] start scan files.
+20:09:18 [INFO] scan files done. 12 files will be checked.
+20:27:51 [INFO] start to paser command line paramers.
+20:27:51 [INFO] paser command line parameters done.
+20:27:51 [INFO] start scan files.
+20:27:51 [INFO] scan files done. 1 files will be checked.
+20:28:09 [INFO] start to paser command line paramers.
+20:28:09 [INFO] paser command line parameters done.
+20:28:09 [INFO] start scan files.
+20:28:09 [INFO] scan files done. 1 files will be checked.
+20:28:28 [INFO] start to paser command line paramers.
+20:28:28 [INFO] paser command line parameters done.
+20:28:28 [INFO] start scan files.
+20:28:28 [INFO] scan files done. 1 files will be checked.
+20:30:16 [INFO] start to paser command line paramers.
+20:30:16 [INFO] paser command line parameters done.
+20:30:16 [INFO] start scan files.
+20:30:16 [INFO] scan files done. 1 files will be checked.
+20:39:46 [INFO] start to paser command line paramers.
+20:39:46 [INFO] paser command line parameters done.
+20:39:46 [INFO] start scan files.
+20:39:46 [INFO] scan files done. 1 files will be checked.
+21:03:30 [INFO] start to paser command line paramers.
+21:03:30 [INFO] paser command line parameters done.
+21:03:30 [INFO] start scan files.
+21:03:30 [INFO] scan files done. 1 files will be checked.
+21:04:10 [INFO] start to paser command line paramers.
+21:04:10 [INFO] paser command line parameters done.
+21:04:10 [INFO] start scan files.
+21:04:10 [INFO] scan files done. 1 files will be checked.
+21:04:34 [INFO] start to paser command line paramers.
+21:04:34 [INFO] paser command line parameters done.
+21:04:34 [INFO] start scan files.
+21:04:34 [INFO] scan files done. 1 files will be checked.
+21:05:02 [INFO] start to paser command line paramers.
+21:05:02 [INFO] paser command line parameters done.
+21:05:02 [INFO] start scan files.
+21:05:03 [INFO] scan files done. 1 files will be checked.
+21:05:07 [INFO] start to paser command line paramers.
+21:05:07 [INFO] paser command line parameters done.
+21:05:07 [INFO] start scan files.
+21:05:07 [INFO] scan files done. 1 files will be checked.
+21:06:04 [INFO] start to paser command line paramers.
+21:06:04 [INFO] paser command line parameters done.
+21:06:04 [INFO] start scan files.
+21:06:04 [INFO] scan files done. 1 files will be checked.
+21:06:33 [INFO] start to paser command line paramers.
+21:06:33 [INFO] paser command line parameters done.
+21:06:33 [INFO] start scan files.
+21:06:33 [INFO] scan files done. 1 files will be checked.
+21:07:36 [INFO] start to paser command line paramers.
+21:07:36 [INFO] paser command line parameters done.
+21:07:36 [INFO] start scan files.
+21:07:36 [INFO] scan files done. 1 files will be checked.
+21:07:45 [INFO] start to paser command line paramers.
+21:07:45 [INFO] paser command line parameters done.
+21:07:45 [INFO] start scan files.
+21:07:45 [INFO] scan files done. 1 files will be checked.
+21:10:39 [INFO] start to paser command line paramers.
+21:10:39 [INFO] paser command line parameters done.
+21:10:39 [INFO] start scan files.
+21:10:39 [INFO] scan files done. 1 files will be checked.
+21:11:11 [INFO] start to paser command line paramers.
+21:11:11 [INFO] paser command line parameters done.
+21:11:11 [INFO] start scan files.
+21:11:11 [INFO] scan files done. 1 files will be checked.
+21:55:22 [INFO] start to paser command line paramers.
+21:55:22 [INFO] paser command line parameters done.
+21:55:22 [INFO] start scan files.
+21:55:22 [INFO] scan files done. 1 files will be checked.
+21:56:21 [INFO] start to paser command line paramers.
+21:56:21 [INFO] paser command line parameters done.
+21:56:21 [INFO] start scan files.
+21:56:22 [INFO] scan files done. 51 files will be checked.
+21:57:29 [INFO] start to paser command line paramers.
+21:57:29 [INFO] paser command line parameters done.
+21:57:29 [INFO] start scan files.
+21:57:31 [INFO] scan files done. 3617 files will be checked.
+22:05:29 [INFO] start to paser command line paramers.
+22:05:29 [INFO] paser command line parameters done.
+22:05:29 [INFO] start scan files.
+22:05:30 [INFO] scan files done. 3617 files will be checked.
+22:06:15 [INFO] start to paser command line paramers.
+22:06:15 [INFO] paser command line parameters done.
+22:06:15 [INFO] start scan files.
+22:06:16 [INFO] scan files done. 3617 files will be checked.

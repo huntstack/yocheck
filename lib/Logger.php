@@ -5,7 +5,7 @@
  * @version yocheck 1.0
  * @author  huntstack <huntstack@gmail.com>
  * @date    2014-07-09 21:53:41
- * @site 	https://github.com/huntstack
+ * @site 	https://github.com/huntstack/yocheck
  */
 class Logger{
 

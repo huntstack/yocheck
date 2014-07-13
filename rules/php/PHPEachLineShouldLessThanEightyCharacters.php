@@ -4,7 +4,7 @@
  * @version yocheck 1.0
  * @author  huntstack <huntstack@gmail.com>
  * @date    2014-07-13 21:41:47
- * @site 	https://github.com/huntstack
+ * @site 	https://github.com/huntstack/yocheck
  */
 
 class PHPEachLineShouldLessThanEightyCharacters implements Rules{

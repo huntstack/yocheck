@@ -1,0 +1,1792 @@
+09:07:14 [INFO] start to paser command line paramers.
+09:07:14 [INFO] paser command line parameters done.
+09:07:14 [INFO] start scan files.
+09:07:15 [INFO] scan files done. 3617 files will be checked.
+09:08:31 [INFO] start to paser command line paramers.
+09:08:31 [INFO] paser command line parameters done.
+09:08:31 [INFO] start scan files.
+09:08:32 [INFO] scan files done. 3617 files will be checked.
+10:01:05 [INFO] start to paser command line paramers.
+10:01:05 [INFO] paser command line parameters done.
+10:01:05 [INFO] start scan files.
+10:01:05 [INFO] scan files done. 1 files will be checked.
+10:02:50 [INFO] start to paser command line paramers.
+10:02:50 [INFO] paser command line parameters done.
+10:02:50 [INFO] start scan files.
+10:02:50 [INFO] scan files done. 1 files will be checked.
+10:03:00 [INFO] start to paser command line paramers.
+10:03:00 [INFO] paser command line parameters done.
+10:03:00 [INFO] start scan files.
+10:03:00 [INFO] scan files done. 1 files will be checked.
+10:03:11 [INFO] start to paser command line paramers.
+10:03:11 [INFO] paser command line parameters done.
+10:03:11 [INFO] start scan files.
+10:03:11 [INFO] scan files done. 1 files will be checked.
+10:07:05 [INFO] start to paser command line paramers.
+10:07:05 [INFO] paser command line parameters done.
+10:07:05 [INFO] start scan files.
+10:07:05 [INFO] scan files done. 1 files will be checked.
+10:07:49 [INFO] start to paser command line paramers.
+10:07:49 [INFO] paser command line parameters done.
+10:07:49 [INFO] start scan files.
+10:07:49 [INFO] scan files done. 1 files will be checked.
+10:08:16 [INFO] start to paser command line paramers.
+10:08:16 [INFO] paser command line parameters done.
+10:08:16 [INFO] start scan files.
+10:08:16 [INFO] scan files done. 1 files will be checked.
+10:08:29 [INFO] start to paser command line paramers.
+10:08:29 [INFO] paser command line parameters done.
+10:08:29 [INFO] start scan files.
+10:08:29 [INFO] scan files done. 1 files will be checked.
+10:08:37 [INFO] start to paser command line paramers.
+10:08:37 [INFO] paser command line parameters done.
+10:08:37 [INFO] start scan files.
+10:08:37 [INFO] scan files done. 1 files will be checked.
+10:08:53 [INFO] start to paser command line paramers.
+10:08:53 [INFO] paser command line parameters done.
+10:08:53 [INFO] start scan files.
+10:08:53 [INFO] scan files done. 1 files will be checked.
+10:10:02 [INFO] start to paser command line paramers.
+10:10:02 [INFO] paser command line parameters done.
+10:10:02 [INFO] start scan files.
+10:10:02 [INFO] scan files done. 1 files will be checked.
+10:10:14 [INFO] start to paser command line paramers.
+10:10:14 [INFO] paser command line parameters done.
+10:10:14 [INFO] start scan files.
+10:10:14 [INFO] scan files done. 1 files will be checked.
+10:10:36 [INFO] start to paser command line paramers.
+10:10:36 [INFO] paser command line parameters done.
+10:10:36 [INFO] start scan files.
+10:10:36 [INFO] scan files done. 1 files will be checked.
+10:11:23 [INFO] start to paser command line paramers.
+10:11:23 [INFO] paser command line parameters done.
+10:11:23 [INFO] start scan files.
+10:11:23 [INFO] scan files done. 1 files will be checked.
+10:11:43 [INFO] start to paser command line paramers.
+10:11:43 [INFO] paser command line parameters done.
+10:11:43 [INFO] start scan files.
+10:11:43 [INFO] scan files done. 1 files will be checked.
+10:12:01 [INFO] start to paser command line paramers.
+10:12:01 [INFO] paser command line parameters done.
+10:12:01 [INFO] start scan files.
+10:12:01 [INFO] scan files done. 1 files will be checked.
+10:12:07 [INFO] start to paser command line paramers.
+10:12:07 [INFO] paser command line parameters done.
+10:12:07 [INFO] start scan files.
+10:12:07 [INFO] scan files done. 1 files will be checked.
+10:12:31 [INFO] start to paser command line paramers.
+10:12:31 [INFO] paser command line parameters done.
+10:12:31 [INFO] start scan files.
+10:12:31 [INFO] scan files done. 1 files will be checked.
+10:12:41 [INFO] start to paser command line paramers.
+10:12:41 [INFO] paser command line parameters done.
+10:12:41 [INFO] start scan files.
+10:12:41 [INFO] scan files done. 1 files will be checked.
+10:12:49 [INFO] start to paser command line paramers.
+10:12:49 [INFO] paser command line parameters done.
+10:12:49 [INFO] start scan files.
+10:12:49 [INFO] scan files done. 1 files will be checked.
+10:13:02 [INFO] start to paser command line paramers.
+10:13:02 [INFO] paser command line parameters done.
+10:13:02 [INFO] start scan files.
+10:13:02 [INFO] scan files done. 1 files will be checked.
+10:13:40 [INFO] start to paser command line paramers.
+10:13:40 [INFO] paser command line parameters done.
+10:13:40 [INFO] start scan files.
+10:13:40 [INFO] scan files done. 1 files will be checked.
+10:20:07 [INFO] start to paser command line paramers.
+10:20:07 [INFO] paser command line parameters done.
+10:20:07 [INFO] start scan files.
+10:20:07 [INFO] scan files done. 1 files will be checked.
+10:20:37 [INFO] start to paser command line paramers.
+10:20:37 [INFO] paser command line parameters done.
+10:20:37 [INFO] start scan files.
+10:20:37 [INFO] scan files done. 1 files will be checked.
+10:24:03 [INFO] start to paser command line paramers.
+10:24:03 [INFO] paser command line parameters done.
+10:24:03 [INFO] start scan files.
+10:24:03 [INFO] scan files done. 1 files will be checked.
+10:24:43 [INFO] start to paser command line paramers.
+10:24:43 [INFO] paser command line parameters done.
+10:24:43 [INFO] start scan files.
+10:24:43 [INFO] scan files done. 1 files will be checked.
+10:25:42 [INFO] start to paser command line paramers.
+10:25:42 [INFO] paser command line parameters done.
+10:25:42 [INFO] start scan files.
+10:25:42 [INFO] scan files done. 1 files will be checked.
+10:26:37 [INFO] start to paser command line paramers.
+10:26:37 [INFO] paser command line parameters done.
+10:26:37 [INFO] start scan files.
+10:26:37 [INFO] scan files done. 1 files will be checked.
+10:27:47 [INFO] start to paser command line paramers.
+10:27:47 [INFO] paser command line parameters done.
+10:27:47 [INFO] start scan files.
+10:27:47 [INFO] scan files done. 1 files will be checked.
+10:27:59 [INFO] start to paser command line paramers.
+10:27:59 [INFO] paser command line parameters done.
+10:27:59 [INFO] start scan files.
+10:27:59 [INFO] scan files done. 1 files will be checked.
+10:28:42 [INFO] start to paser command line paramers.
+10:28:42 [INFO] paser command line parameters done.
+10:28:42 [INFO] start scan files.
+10:28:42 [INFO] scan files done. 1 files will be checked.
+10:29:38 [INFO] start to paser command line paramers.
+10:29:38 [INFO] paser command line parameters done.
+10:29:38 [INFO] start scan files.
+10:29:38 [INFO] scan files done. 1 files will be checked.
+10:31:32 [INFO] start to paser command line paramers.
+10:31:32 [INFO] paser command line parameters done.
+10:31:32 [INFO] start scan files.
+10:31:32 [INFO] scan files done. 1 files will be checked.
+10:32:28 [INFO] start to paser command line paramers.
+10:32:28 [INFO] paser command line parameters done.
+10:32:28 [INFO] start scan files.
+10:32:28 [INFO] scan files done. 1 files will be checked.
+10:33:31 [INFO] start to paser command line paramers.
+10:33:31 [INFO] paser command line parameters done.
+10:33:31 [INFO] start scan files.
+10:33:31 [INFO] scan files done. 1 files will be checked.
+10:34:07 [INFO] start to paser command line paramers.
+10:34:07 [INFO] paser command line parameters done.
+10:34:07 [INFO] start scan files.
+10:34:07 [INFO] scan files done. 1 files will be checked.
+10:34:40 [INFO] start to paser command line paramers.
+10:34:40 [INFO] paser command line parameters done.
+10:34:40 [INFO] start scan files.
+10:34:40 [INFO] scan files done. 1 files will be checked.
+10:35:27 [INFO] start to paser command line paramers.
+10:35:27 [INFO] paser command line parameters done.
+10:35:27 [INFO] start scan files.
+10:35:27 [INFO] scan files done. 1 files will be checked.
+10:35:56 [INFO] start to paser command line paramers.
+10:35:56 [INFO] paser command line parameters done.
+10:35:56 [INFO] start scan files.
+10:35:56 [INFO] scan files done. 1 files will be checked.
+10:36:53 [INFO] start to paser command line paramers.
+10:36:53 [INFO] paser command line parameters done.
+10:36:53 [INFO] start scan files.
+10:36:53 [INFO] scan files done. 1 files will be checked.
+10:42:52 [INFO] start to paser command line paramers.
+10:42:52 [INFO] paser command line parameters done.
+10:42:52 [INFO] start scan files.
+10:42:52 [INFO] scan files done. 1 files will be checked.
+10:46:32 [INFO] start to paser command line paramers.
+10:46:32 [INFO] paser command line parameters done.
+10:46:32 [INFO] start scan files.
+10:46:32 [INFO] scan files done. 1 files will be checked.
+11:31:34 [INFO] start to paser command line paramers.
+11:31:34 [INFO] paser command line parameters done.
+11:31:34 [INFO] start scan files.
+11:31:34 [INFO] scan files done. 1 files will be checked.
+11:34:35 [INFO] start to paser command line paramers.
+11:34:35 [INFO] paser command line parameters done.
+11:34:35 [INFO] start scan files.
+11:34:35 [INFO] scan files done. 1 files will be checked.
+11:36:05 [INFO] start to paser command line paramers.
+11:36:05 [INFO] paser command line parameters done.
+11:36:05 [INFO] start scan files.
+11:36:05 [INFO] scan files done. 1 files will be checked.
+11:49:02 [INFO] start to paser command line paramers.
+11:49:02 [INFO] paser command line parameters done.
+11:49:02 [INFO] start scan files.
+11:49:02 [INFO] scan files done. 1 files will be checked.
+11:53:52 [INFO] start to paser command line paramers.
+11:53:52 [INFO] paser command line parameters done.
+11:53:52 [INFO] start scan files.
+11:53:52 [INFO] scan files done. 1 files will be checked.
+11:54:07 [INFO] start to paser command line paramers.
+11:54:07 [INFO] paser command line parameters done.
+11:54:07 [INFO] start scan files.
+11:54:07 [INFO] scan files done. 1 files will be checked.
+12:07:32 [INFO] start to paser command line paramers.
+12:07:32 [INFO] paser command line parameters done.
+12:07:32 [INFO] start scan files.
+12:07:32 [INFO] scan files done. 1 files will be checked.
+12:08:04 [INFO] start to paser command line paramers.
+12:08:04 [INFO] paser command line parameters done.
+12:08:04 [INFO] start scan files.
+12:08:04 [INFO] scan files done. 1 files will be checked.
+12:09:35 [INFO] start to paser command line paramers.
+12:09:35 [INFO] paser command line parameters done.
+12:09:35 [INFO] start scan files.
+12:09:35 [INFO] scan files done. 1 files will be checked.
+12:09:49 [INFO] start to paser command line paramers.
+12:09:49 [INFO] paser command line parameters done.
+12:09:49 [INFO] start scan files.
+12:09:49 [INFO] scan files done. 1 files will be checked.
+12:10:06 [INFO] start to paser command line paramers.
+12:10:06 [INFO] paser command line parameters done.
+12:10:06 [INFO] start scan files.
+12:10:06 [INFO] scan files done. 1 files will be checked.
+12:19:18 [INFO] start to paser command line paramers.
+12:19:18 [INFO] paser command line parameters done.
+12:19:18 [INFO] start scan files.
+12:19:18 [INFO] scan files done. 1 files will be checked.
+12:20:00 [INFO] start to paser command line paramers.
+12:20:00 [INFO] paser command line parameters done.
+12:20:00 [INFO] start scan files.
+12:20:00 [INFO] scan files done. 2 files will be checked.
+12:20:52 [INFO] start to paser command line paramers.
+12:20:52 [INFO] paser command line parameters done.
+12:20:52 [INFO] start scan files.
+12:20:52 [INFO] scan files done. 1 files will be checked.
+12:20:54 [INFO] start to paser command line paramers.
+12:20:54 [INFO] paser command line parameters done.
+12:20:54 [INFO] start scan files.
+12:20:54 [INFO] scan files done. 2 files will be checked.
+12:29:36 [INFO] start to paser command line paramers.
+12:29:36 [INFO] paser command line parameters done.
+12:29:36 [INFO] start scan files.
+12:29:36 [INFO] scan files done. 2 files will be checked.
+12:32:18 [INFO] start to paser command line paramers.
+12:32:18 [INFO] paser command line parameters done.
+12:32:18 [INFO] start scan files.
+12:32:18 [INFO] scan files done. 2 files will be checked.
+12:33:31 [INFO] start to paser command line paramers.
+12:33:31 [INFO] paser command line parameters done.
+12:33:31 [INFO] start scan files.
+12:33:31 [INFO] scan files done. 2 files will be checked.
+12:35:39 [INFO] start to paser command line paramers.
+12:35:39 [INFO] paser command line parameters done.
+12:35:39 [INFO] start scan files.
+12:35:39 [INFO] scan files done. 2 files will be checked.
+12:36:41 [INFO] start to paser command line paramers.
+12:36:41 [INFO] paser command line parameters done.
+12:36:41 [INFO] start scan files.
+12:36:41 [INFO] scan files done. 2 files will be checked.
+12:51:07 [INFO] start to paser command line paramers.
+12:51:07 [INFO] paser command line parameters done.
+12:51:07 [INFO] start scan files.
+12:51:07 [INFO] scan files done. 2 files will be checked.
+12:51:33 [INFO] start to paser command line paramers.
+12:51:33 [INFO] paser command line parameters done.
+12:51:33 [INFO] start scan files.
+12:51:33 [INFO] scan files done. 2 files will be checked.
+13:11:51 [INFO] start to paser command line paramers.
+13:11:51 [INFO] paser command line parameters done.
+13:11:51 [INFO] start scan files.
+13:11:51 [INFO] scan files done. 2 files will be checked.
+13:13:45 [INFO] start to paser command line paramers.
+13:13:45 [INFO] paser command line parameters done.
+13:13:45 [INFO] start scan files.
+13:13:45 [INFO] scan files done. 2 files will be checked.
+13:14:01 [INFO] start to paser command line paramers.
+13:14:01 [INFO] paser command line parameters done.
+13:14:01 [INFO] start scan files.
+13:14:01 [INFO] scan files done. 2 files will be checked.
+13:14:16 [INFO] start to paser command line paramers.
+13:14:16 [INFO] paser command line parameters done.
+13:14:16 [INFO] start scan files.
+13:14:16 [INFO] scan files done. 2 files will be checked.
+13:14:35 [INFO] start to paser command line paramers.
+13:14:35 [INFO] paser command line parameters done.
+13:14:35 [INFO] start scan files.
+13:14:35 [INFO] scan files done. 2 files will be checked.
+13:16:16 [INFO] start to paser command line paramers.
+13:16:16 [INFO] paser command line parameters done.
+13:16:16 [INFO] start scan files.
+13:16:16 [INFO] scan files done. 2 files will be checked.
+13:17:16 [INFO] start to paser command line paramers.
+13:17:16 [INFO] paser command line parameters done.
+13:17:16 [INFO] start scan files.
+13:17:16 [INFO] scan files done. 2 files will be checked.
+13:17:29 [INFO] start to paser command line paramers.
+13:17:29 [INFO] paser command line parameters done.
+13:17:29 [INFO] start scan files.
+13:17:29 [INFO] scan files done. 2 files will be checked.
+13:18:01 [INFO] start to paser command line paramers.
+13:18:01 [INFO] paser command line parameters done.
+13:18:01 [INFO] start scan files.
+13:18:01 [INFO] scan files done. 2 files will be checked.
+13:18:23 [INFO] start to paser command line paramers.
+13:18:23 [INFO] paser command line parameters done.
+13:18:23 [INFO] start scan files.
+13:18:23 [INFO] scan files done. 2 files will be checked.
+13:20:41 [INFO] start to paser command line paramers.
+13:20:41 [INFO] paser command line parameters done.
+13:20:41 [INFO] start scan files.
+13:20:41 [INFO] scan files done. 2 files will be checked.
+13:40:42 [INFO] start to paser command line paramers.
+13:40:42 [INFO] paser command line parameters done.
+13:40:42 [INFO] start scan files.
+13:40:42 [INFO] scan files done. 1 files will be checked.
+13:45:11 [INFO] start to paser command line paramers.
+13:45:11 [INFO] paser command line parameters done.
+13:45:11 [INFO] start scan files.
+13:45:11 [INFO] scan files done. 1 files will be checked.
+13:47:18 [INFO] start to paser command line paramers.
+13:47:18 [INFO] paser command line parameters done.
+13:47:18 [INFO] start scan files.
+13:47:18 [INFO] scan files done. 2 files will be checked.
+13:48:04 [INFO] start to paser command line paramers.
+13:48:04 [INFO] paser command line parameters done.
+13:48:04 [INFO] start scan files.
+13:48:04 [INFO] scan files done. 2 files will be checked.
+13:55:38 [INFO] start to paser command line paramers.
+13:55:38 [INFO] paser command line parameters done.
+13:55:38 [INFO] start scan files.
+13:55:38 [INFO] scan files done. 2 files will be checked.
+13:59:19 [INFO] start to paser command line paramers.
+13:59:19 [INFO] paser command line parameters done.
+13:59:19 [INFO] start scan files.
+13:59:19 [INFO] scan files done. 2 files will be checked.
+14:02:59 [INFO] start to paser command line paramers.
+14:02:59 [INFO] paser command line parameters done.
+14:02:59 [INFO] start scan files.
+14:02:59 [INFO] scan files done. 2 files will be checked.
+14:05:14 [INFO] start to paser command line paramers.
+14:05:14 [INFO] paser command line parameters done.
+14:05:14 [INFO] start scan files.
+14:05:14 [INFO] scan files done. 2 files will be checked.
+14:05:34 [INFO] start to paser command line paramers.
+14:05:34 [INFO] paser command line parameters done.
+14:05:34 [INFO] start scan files.
+14:05:34 [INFO] scan files done. 2 files will be checked.
+14:05:46 [INFO] start to paser command line paramers.
+14:05:46 [INFO] paser command line parameters done.
+14:05:46 [INFO] start scan files.
+14:05:46 [INFO] scan files done. 2 files will be checked.
+14:20:40 [INFO] start to paser command line paramers.
+14:20:40 [INFO] paser command line parameters done.
+14:20:40 [INFO] start scan files.
+14:20:40 [INFO] scan files done. 2 files will be checked.
+14:21:12 [INFO] start to paser command line paramers.
+14:21:12 [INFO] paser command line parameters done.
+14:21:12 [INFO] start scan files.
+14:21:12 [INFO] scan files done. 2 files will be checked.
+14:21:39 [INFO] start to paser command line paramers.
+14:21:39 [INFO] paser command line parameters done.
+14:21:39 [INFO] start scan files.
+14:21:39 [INFO] scan files done. 2 files will be checked.
+14:23:23 [INFO] start to paser command line paramers.
+14:23:23 [INFO] paser command line parameters done.
+14:23:23 [INFO] start scan files.
+14:23:23 [INFO] scan files done. 2 files will be checked.
+14:27:36 [INFO] start to paser command line paramers.
+14:27:36 [INFO] paser command line parameters done.
+14:27:36 [INFO] start scan files.
+14:27:36 [INFO] scan files done. 2 files will be checked.
+14:28:49 [INFO] start to paser command line paramers.
+14:28:49 [INFO] paser command line parameters done.
+14:28:49 [INFO] start scan files.
+14:28:49 [INFO] scan files done. 2 files will be checked.
+14:29:26 [INFO] start to paser command line paramers.
+14:29:26 [INFO] paser command line parameters done.
+14:29:26 [INFO] start scan files.
+14:29:27 [INFO] scan files done. 3617 files will be checked.
+14:31:14 [INFO] start to paser command line paramers.
+14:31:14 [INFO] paser command line parameters done.
+14:31:14 [INFO] start scan files.
+14:31:14 [INFO] scan files done. 2 files will be checked.
+14:37:48 [INFO] start to paser command line paramers.
+14:37:48 [INFO] paser command line parameters done.
+14:37:48 [INFO] start scan files.
+14:37:48 [INFO] scan files done. 2 files will be checked.
+14:38:39 [INFO] start to paser command line paramers.
+14:38:39 [INFO] paser command line parameters done.
+14:38:39 [INFO] start scan files.
+14:38:39 [INFO] scan files done. 2 files will be checked.
+14:41:30 [INFO] start to paser command line paramers.
+14:41:30 [INFO] paser command line parameters done.
+14:41:30 [INFO] start scan files.
+14:41:30 [INFO] scan files done. 2 files will be checked.
+14:50:59 [INFO] start to paser command line paramers.
+14:50:59 [INFO] paser command line parameters done.
+14:50:59 [INFO] start scan files.
+14:50:59 [INFO] scan files done. 2 files will be checked.
+14:51:50 [INFO] start to paser command line paramers.
+14:51:50 [INFO] paser command line parameters done.
+14:51:50 [INFO] start scan files.
+14:51:50 [INFO] scan files done. 2 files will be checked.
+14:57:58 [INFO] start to paser command line paramers.
+14:57:58 [INFO] paser command line parameters done.
+14:57:58 [INFO] start scan files.
+14:57:59 [INFO] scan files done. 3617 files will be checked.
+15:00:36 [INFO] start to paser command line paramers.
+15:00:36 [INFO] paser command line parameters done.
+15:00:36 [INFO] start scan files.
+15:00:37 [INFO] scan files done. 3617 files will be checked.
+15:04:36 [INFO] start to paser command line paramers.
+15:04:36 [INFO] paser command line parameters done.
+15:04:36 [INFO] start scan files.
+15:04:36 [INFO] scan files done. 2 files will be checked.
+15:08:29 [INFO] start to paser command line paramers.
+15:08:29 [INFO] paser command line parameters done.
+15:08:29 [INFO] start scan files.
+15:08:29 [INFO] scan files done. 2 files will be checked.
+15:09:18 [INFO] start to paser command line paramers.
+15:09:18 [INFO] paser command line parameters done.
+15:09:18 [INFO] start scan files.
+15:09:18 [INFO] scan files done. 2 files will be checked.
+15:10:08 [INFO] start to paser command line paramers.
+15:10:08 [INFO] paser command line parameters done.
+15:10:08 [INFO] start scan files.
+15:10:08 [INFO] scan files done. 2 files will be checked.
+15:13:53 [INFO] start to paser command line paramers.
+15:13:53 [INFO] paser command line parameters done.
+15:13:53 [INFO] start scan files.
+15:13:53 [INFO] scan files done. 2 files will be checked.
+15:16:51 [INFO] start to paser command line paramers.
+15:16:51 [INFO] paser command line parameters done.
+15:16:51 [INFO] start scan files.
+15:16:51 [INFO] scan files done. 2 files will be checked.
+15:25:48 [INFO] start to paser command line paramers.
+15:25:48 [INFO] paser command line parameters done.
+15:25:48 [INFO] start scan files.
+15:25:48 [INFO] scan files done. 2 files will be checked.
+15:26:40 [INFO] start to paser command line paramers.
+15:26:40 [INFO] paser command line parameters done.
+15:26:40 [INFO] start scan files.
+15:26:40 [INFO] scan files done. 2 files will be checked.
+16:16:07 [INFO] start to paser command line paramers.
+16:16:07 [INFO] paser command line parameters done.
+16:16:07 [INFO] start scan files.
+16:16:07 [INFO] scan files done. 2 files will be checked.
+16:27:55 [INFO] start to paser command line paramers.
+16:27:55 [INFO] paser command line parameters done.
+16:27:55 [INFO] start scan files.
+16:27:55 [INFO] scan files done. 2 files will be checked.
+16:28:07 [INFO] start to paser command line paramers.
+16:28:07 [INFO] paser command line parameters done.
+16:28:07 [INFO] start scan files.
+16:28:07 [INFO] scan files done. 2 files will be checked.
+16:29:02 [INFO] start to paser command line paramers.
+16:29:02 [INFO] paser command line parameters done.
+16:29:02 [INFO] start scan files.
+16:29:02 [INFO] scan files done. 2 files will be checked.
+16:29:57 [INFO] start to paser command line paramers.
+16:29:57 [INFO] paser command line parameters done.
+16:29:57 [INFO] start scan files.
+16:29:57 [INFO] scan files done. 2 files will be checked.
+16:33:23 [INFO] start to paser command line paramers.
+16:33:23 [INFO] paser command line parameters done.
+16:33:23 [INFO] start scan files.
+16:33:23 [INFO] scan files done. 2 files will be checked.
+16:34:06 [INFO] start to paser command line paramers.
+16:34:06 [INFO] paser command line parameters done.
+16:34:06 [INFO] start scan files.
+16:34:06 [INFO] scan files done. 2 files will be checked.
+16:36:58 [INFO] start to paser command line paramers.
+16:36:58 [INFO] paser command line parameters done.
+16:36:58 [INFO] start scan files.
+16:36:58 [INFO] scan files done. 2 files will be checked.
+16:37:14 [INFO] start to paser command line paramers.
+16:37:14 [INFO] paser command line parameters done.
+16:37:14 [INFO] start scan files.
+16:37:14 [INFO] scan files done. 2 files will be checked.
+16:37:25 [INFO] start to paser command line paramers.
+16:37:25 [INFO] paser command line parameters done.
+16:37:25 [INFO] start scan files.
+16:37:25 [INFO] scan files done. 2 files will be checked.
+16:38:15 [INFO] start to paser command line paramers.
+16:38:15 [INFO] paser command line parameters done.
+16:38:15 [INFO] start scan files.
+16:38:15 [INFO] scan files done. 2 files will be checked.
+16:38:50 [INFO] start to paser command line paramers.
+16:38:50 [INFO] paser command line parameters done.
+16:38:50 [INFO] start scan files.
+16:38:50 [INFO] scan files done. 2 files will be checked.
+16:39:37 [INFO] start to paser command line paramers.
+16:39:37 [INFO] paser command line parameters done.
+16:39:37 [INFO] start scan files.
+16:39:37 [INFO] scan files done. 2 files will be checked.
+16:40:02 [INFO] start to paser command line paramers.
+16:40:02 [INFO] paser command line parameters done.
+16:40:02 [INFO] start scan files.
+16:40:02 [INFO] scan files done. 2 files will be checked.
+16:41:04 [INFO] start to paser command line paramers.
+16:41:04 [INFO] paser command line parameters done.
+16:41:04 [INFO] start scan files.
+16:41:04 [INFO] scan files done. 2 files will be checked.
+16:44:00 [INFO] start to paser command line paramers.
+16:44:00 [INFO] paser command line parameters done.
+16:44:00 [INFO] start scan files.
+16:44:00 [INFO] scan files done. 2 files will be checked.
+16:52:03 [INFO] start to paser command line paramers.
+16:52:03 [INFO] paser command line parameters done.
+16:52:03 [INFO] start scan files.
+16:52:03 [INFO] scan files done. 2 files will be checked.
+16:55:13 [INFO] start to paser command line paramers.
+16:55:13 [INFO] paser command line parameters done.
+16:55:13 [INFO] start scan files.
+16:55:13 [INFO] scan files done. 2 files will be checked.
+18:21:15 [INFO] start to paser command line paramers.
+18:21:15 [INFO] paser command line parameters done.
+18:21:15 [INFO] start scan files.
+18:21:15 [INFO] scan files done. 2 files will be checked.
+18:21:49 [INFO] start to paser command line paramers.
+18:21:49 [INFO] paser command line parameters done.
+18:21:49 [INFO] start scan files.
+18:21:49 [INFO] scan files done. 2 files will be checked.
+18:22:05 [INFO] start to paser command line paramers.
+18:22:05 [INFO] paser command line parameters done.
+18:22:05 [INFO] start scan files.
+18:22:05 [INFO] scan files done. 2 files will be checked.
+18:22:11 [INFO] start to paser command line paramers.
+18:22:11 [INFO] paser command line parameters done.
+18:22:11 [INFO] start scan files.
+18:22:11 [INFO] scan files done. 2 files will be checked.
+18:22:30 [INFO] start to paser command line paramers.
+18:22:30 [INFO] paser command line parameters done.
+18:22:30 [INFO] start scan files.
+18:22:30 [INFO] scan files done. 2 files will be checked.
+18:23:58 [INFO] start to paser command line paramers.
+18:23:58 [INFO] paser command line parameters done.
+18:23:58 [INFO] start scan files.
+18:23:58 [INFO] scan files done. 2 files will be checked.
+18:26:07 [INFO] start to paser command line paramers.
+18:26:07 [INFO] paser command line parameters done.
+18:26:07 [INFO] start scan files.
+18:26:07 [INFO] scan files done. 2 files will be checked.
+18:27:47 [INFO] start to paser command line paramers.
+18:27:47 [INFO] paser command line parameters done.
+18:27:47 [INFO] start scan files.
+18:27:47 [INFO] scan files done. 2 files will be checked.
+18:28:06 [INFO] start to paser command line paramers.
+18:28:06 [INFO] paser command line parameters done.
+18:28:06 [INFO] start scan files.
+18:28:06 [INFO] scan files done. 2 files will be checked.
+18:30:50 [INFO] start to paser command line paramers.
+18:30:50 [INFO] paser command line parameters done.
+18:30:50 [INFO] start scan files.
+18:30:50 [INFO] scan files done. 2 files will be checked.
+18:31:26 [INFO] start to paser command line paramers.
+18:31:26 [INFO] paser command line parameters done.
+18:31:26 [INFO] start scan files.
+18:31:26 [INFO] scan files done. 2 files will be checked.
+18:32:19 [INFO] start to paser command line paramers.
+18:32:19 [INFO] paser command line parameters done.
+18:32:19 [INFO] start scan files.
+18:32:19 [INFO] scan files done. 2 files will be checked.
+18:33:16 [INFO] start to paser command line paramers.
+18:33:16 [INFO] paser command line parameters done.
+18:33:16 [INFO] start scan files.
+18:33:16 [INFO] scan files done. 2 files will be checked.
+18:35:34 [INFO] start to paser command line paramers.
+18:35:34 [INFO] paser command line parameters done.
+18:35:34 [INFO] start scan files.
+18:35:34 [INFO] scan files done. 2 files will be checked.
+18:36:11 [INFO] start to paser command line paramers.
+18:36:11 [INFO] paser command line parameters done.
+18:36:11 [INFO] start scan files.
+18:36:11 [INFO] scan files done. 2 files will be checked.
+18:36:55 [INFO] start to paser command line paramers.
+18:36:55 [INFO] paser command line parameters done.
+18:36:55 [INFO] start scan files.
+18:36:55 [INFO] scan files done. 2 files will be checked.
+18:37:36 [INFO] start to paser command line paramers.
+18:37:36 [INFO] paser command line parameters done.
+18:37:36 [INFO] start scan files.
+18:37:36 [INFO] scan files done. 2 files will be checked.
+18:39:02 [INFO] start to paser command line paramers.
+18:39:02 [INFO] paser command line parameters done.
+18:39:02 [INFO] start scan files.
+18:39:02 [INFO] scan files done. 2 files will be checked.
+18:39:48 [INFO] start to paser command line paramers.
+18:39:48 [INFO] paser command line parameters done.
+18:39:48 [INFO] start scan files.
+18:39:49 [INFO] scan files done. 3617 files will be checked.
+18:41:53 [INFO] start to paser command line paramers.
+18:41:53 [INFO] paser command line parameters done.
+18:41:53 [INFO] start scan files.
+18:41:53 [INFO] scan files done. 2 files will be checked.
+18:48:48 [INFO] start to paser command line paramers.
+18:48:48 [INFO] paser command line parameters done.
+18:48:48 [INFO] start scan files.
+18:48:48 [INFO] scan files done. 2 files will be checked.
+18:49:06 [INFO] start to paser command line paramers.
+18:49:06 [INFO] paser command line parameters done.
+18:49:06 [INFO] start scan files.
+18:49:07 [INFO] scan files done. 3617 files will be checked.
+18:56:05 [INFO] start to paser command line paramers.
+18:56:05 [INFO] paser command line parameters done.
+18:56:05 [INFO] start scan files.
+18:56:06 [INFO] scan files done. 3617 files will be checked.
+18:59:29 [INFO] start to paser command line paramers.
+18:59:29 [INFO] paser command line parameters done.
+18:59:29 [INFO] start scan files.
+18:59:29 [INFO] scan files done. 2 files will be checked.
+19:00:08 [INFO] start to paser command line paramers.
+19:00:08 [INFO] paser command line parameters done.
+19:00:08 [INFO] start scan files.
+19:00:08 [INFO] scan files done. 2 files will be checked.
+19:00:32 [INFO] start to paser command line paramers.
+19:00:32 [INFO] paser command line parameters done.
+19:00:32 [INFO] start scan files.
+19:00:32 [INFO] scan files done. 2 files will be checked.
+19:01:26 [INFO] start to paser command line paramers.
+19:01:26 [INFO] paser command line parameters done.
+19:01:26 [INFO] start scan files.
+19:01:26 [INFO] scan files done. 2 files will be checked.
+19:01:46 [INFO] start to paser command line paramers.
+19:01:46 [INFO] paser command line parameters done.
+19:01:46 [INFO] start scan files.
+19:01:46 [INFO] scan files done. 2 files will be checked.
+19:02:51 [INFO] start to paser command line paramers.
+19:02:51 [INFO] paser command line parameters done.
+19:02:51 [INFO] start scan files.
+19:02:51 [INFO] scan files done. 2 files will be checked.
+19:07:52 [INFO] start to paser command line paramers.
+19:07:52 [INFO] paser command line parameters done.
+19:07:52 [INFO] start scan files.
+19:07:52 [INFO] scan files done. 2 files will be checked.
+19:08:14 [INFO] start to paser command line paramers.
+19:08:14 [INFO] paser command line parameters done.
+19:08:14 [INFO] start scan files.
+19:08:14 [INFO] scan files done. 51 files will be checked.
+19:10:17 [INFO] start to paser command line paramers.
+19:10:17 [INFO] paser command line parameters done.
+19:10:17 [INFO] start scan files.
+19:10:17 [INFO] scan files done. 51 files will be checked.
+19:14:16 [INFO] start to paser command line paramers.
+19:14:16 [INFO] paser command line parameters done.
+19:14:16 [INFO] start scan files.
+19:14:16 [INFO] scan files done. 51 files will be checked.
+19:15:05 [INFO] start to paser command line paramers.
+19:15:05 [INFO] paser command line parameters done.
+19:15:05 [INFO] start scan files.
+19:15:05 [INFO] scan files done. 51 files will be checked.
+19:15:26 [INFO] start to paser command line paramers.
+19:15:26 [INFO] paser command line parameters done.
+19:15:26 [INFO] start scan files.
+19:15:26 [INFO] scan files done. 51 files will be checked.
+19:18:04 [INFO] start to paser command line paramers.
+19:18:04 [INFO] paser command line parameters done.
+19:18:04 [INFO] start scan files.
+19:18:04 [INFO] scan files done. 51 files will be checked.
+19:18:32 [INFO] start to paser command line paramers.
+19:18:32 [INFO] paser command line parameters done.
+19:18:32 [INFO] start scan files.
+19:18:32 [INFO] scan files done. 51 files will be checked.
+19:19:16 [INFO] start to paser command line paramers.
+19:19:16 [INFO] paser command line parameters done.
+19:19:16 [INFO] start scan files.
+19:19:16 [INFO] scan files done. 51 files will be checked.
+19:22:24 [INFO] start to paser command line paramers.
+19:22:24 [INFO] paser command line parameters done.
+19:22:24 [INFO] start scan files.
+19:22:24 [INFO] scan files done. 51 files will be checked.
+19:26:06 [INFO] start to paser command line paramers.
+19:26:06 [INFO] paser command line parameters done.
+19:26:06 [INFO] start scan files.
+19:26:06 [INFO] scan files done. 51 files will be checked.
+19:33:06 [INFO] start to paser command line paramers.
+19:33:06 [INFO] paser command line parameters done.
+19:33:06 [INFO] start scan files.
+19:33:06 [INFO] scan files done. 51 files will be checked.
+19:34:22 [INFO] start to paser command line paramers.
+19:34:22 [INFO] paser command line parameters done.
+19:34:22 [INFO] start scan files.
+19:34:22 [INFO] scan files done. 51 files will be checked.
+19:35:52 [INFO] start to paser command line paramers.
+19:35:52 [INFO] paser command line parameters done.
+19:35:52 [INFO] start scan files.
+19:35:52 [INFO] scan files done. 51 files will be checked.
+19:39:19 [INFO] start to paser command line paramers.
+19:39:19 [INFO] paser command line parameters done.
+19:39:19 [INFO] start scan files.
+19:39:19 [INFO] scan files done. 51 files will be checked.
+19:44:08 [INFO] start to paser command line paramers.
+19:44:08 [INFO] paser command line parameters done.
+19:44:08 [INFO] start scan files.
+19:44:08 [INFO] scan files done. 51 files will be checked.
+19:44:49 [INFO] start to paser command line paramers.
+19:44:49 [INFO] paser command line parameters done.
+19:44:49 [INFO] start scan files.
+19:44:49 [INFO] scan files done. 51 files will be checked.
+19:46:21 [INFO] start to paser command line paramers.
+19:46:21 [INFO] paser command line parameters done.
+19:46:21 [INFO] start scan files.
+19:46:21 [INFO] scan files done. 51 files will be checked.
+19:46:40 [INFO] start to paser command line paramers.
+19:46:40 [INFO] paser command line parameters done.
+19:46:40 [INFO] start scan files.
+19:46:40 [INFO] scan files done. 51 files will be checked.
+19:59:09 [INFO] start to paser command line paramers.
+19:59:09 [INFO] paser command line parameters done.
+19:59:09 [INFO] start scan files.
+19:59:09 [INFO] scan files done. 51 files will be checked.
+19:59:39 [INFO] start to paser command line paramers.
+19:59:39 [INFO] paser command line parameters done.
+19:59:39 [INFO] start scan files.
+19:59:39 [INFO] scan files done. 51 files will be checked.
+20:00:23 [INFO] start to paser command line paramers.
+20:00:23 [INFO] paser command line parameters done.
+20:00:23 [INFO] start scan files.
+20:00:23 [INFO] scan files done. 51 files will be checked.
+20:18:57 [INFO] start to paser command line paramers.
+20:18:57 [INFO] paser command line parameters done.
+20:18:57 [INFO] start scan files.
+20:18:57 [INFO] scan files done. 51 files will be checked.
+20:18:57 [INFO] include rules .\rules
+20:18:57 [INFO] include rules .\rules\js
+20:18:57 [INFO] include rules .\rules\php
+20:18:57 [INFO] start check files 
+20:18:57 [INFO] read file E:\wamp\www\application\controller\ajax_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\controller\ajax_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\controller\home_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\controller\home_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\controller\user_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\controller\user_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\from_index.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\from_index.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\from_user.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\from_user.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\model.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\model.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\view.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\view.class.php
+20:18:57 [INFO] read file E:\wamp\www\config\ini.php
+20:18:57 [INFO] read file E:\wamp\www\config\ini.php
+20:18:57 [INFO] read file E:\wamp\www\cookie.php
+20:18:57 [INFO] read file E:\wamp\www\cookie.php
+20:18:57 [INFO] read file E:\wamp\www\countdir.php
+20:18:57 [INFO] read file E:\wamp\www\countdir.php
+20:18:57 [INFO] read file E:\wamp\www\index.php
+20:18:57 [INFO] read file E:\wamp\www\index.php
+20:18:57 [INFO] read file E:\wamp\www\library\db_connect.class.php
+20:18:57 [INFO] read file E:\wamp\www\library\db_connect.class.php
+20:18:57 [INFO] read file E:\wamp\www\library\template.class.php
+20:18:57 [INFO] read file E:\wamp\www\library\template.class.php
+20:18:57 [INFO] read file E:\wamp\www\login.php
+20:18:57 [INFO] read file E:\wamp\www\login.php
+20:18:57 [INFO] read file E:\wamp\www\temp\test.php
+20:18:57 [INFO] read file E:\wamp\www\temp\test.php
+20:18:57 [INFO] read file E:\wamp\www\temp\test1.php
+20:18:57 [INFO] read file E:\wamp\www\temp\test1.php
+20:18:57 [INFO] read file E:\wamp\www\temp\test2.php
+20:18:57 [INFO] read file E:\wamp\www\temp\test2.php
+20:18:57 [INFO] read file E:\wamp\www\test.php
+20:18:57 [INFO] read file E:\wamp\www\test.php
+20:18:57 [INFO] read file E:\wamp\www\try.php
+20:18:57 [INFO] read file E:\wamp\www\try.php
+20:18:57 [INFO] read file E:\wamp\www\user-info.php
+20:18:57 [INFO] read file E:\wamp\www\user-info.php
+20:18:57 [INFO] read file E:\wamp\www\web-object.php
+20:18:57 [INFO] read file E:\wamp\www\web-object.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\resource\js\ajax.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\animation.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\google.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\main.js
+20:18:57 [INFO] check files done 
+20:18:57 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:18:57 [INFO] read file E:\wamp\www\application\controller\home_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\controller\user_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\controller\user_controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\model\user_model.class.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\from_index.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\from_index.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\from_index.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\controller.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\model.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\model.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\model.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\model.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\router.class.php
+20:18:57 [INFO] read file E:\wamp\www\basecore\view.class.php
+20:18:57 [INFO] read file E:\wamp\www\config\ini.php
+20:18:57 [INFO] read file E:\wamp\www\config\ini.php
+20:18:57 [INFO] read file E:\wamp\www\config\ini.php
+20:18:57 [INFO] read file E:\wamp\www\config\ini.php
+20:18:57 [INFO] read file E:\wamp\www\config\ini.php
+20:18:57 [INFO] read file E:\wamp\www\cookie.php
+20:18:57 [INFO] read file E:\wamp\www\countdir.php
+20:18:57 [INFO] read file E:\wamp\www\countdir.php
+20:18:57 [INFO] read file E:\wamp\www\countdir.php
+20:18:57 [INFO] read file E:\wamp\www\library\template.class.php
+20:18:57 [INFO] read file E:\wamp\www\library\template.class.php
+20:18:57 [INFO] read file E:\wamp\www\library\template.class.php
+20:18:57 [INFO] read file E:\wamp\www\library\template.class.php
+20:18:57 [INFO] read file E:\wamp\www\login.php
+20:18:57 [INFO] read file E:\wamp\www\try.php
+20:18:57 [INFO] read file E:\wamp\www\try.php
+20:18:57 [INFO] read file E:\wamp\www\try.php
+20:18:57 [INFO] read file E:\wamp\www\try.php
+20:18:57 [INFO] read file E:\wamp\www\application\view\resource\js\ajax.js
+20:18:57 [INFO] read file E:\wamp\www\application\view\resource\js\ajax.js
+20:18:57 [INFO] read file E:\wamp\www\application\view\resource\js\ajax.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\animation.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\animation.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\animation.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\animation.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\main.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\main.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\main.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\main.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\main.js
+20:18:57 [INFO] read file E:\wamp\www\resume\javascripts\main.js
+20:23:11 [INFO] start to paser command line paramers.
+20:23:11 [INFO] paser command line parameters done.
+20:23:11 [INFO] start scan files.
+20:23:11 [INFO] scan files done. 51 files will be checked.
+20:23:11 [INFO] start check files 
+20:23:11 [INFO] check files done 
+20:23:11 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:23:56 [INFO] start to paser command line paramers.
+20:23:56 [INFO] paser command line parameters done.
+20:23:56 [INFO] start scan files.
+20:23:56 [INFO] scan files done. 51 files will be checked.
+20:23:56 [INFO] start check files 
+20:23:56 [INFO] check files done 
+20:23:56 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:24:05 [INFO] start to paser command line paramers.
+20:24:05 [INFO] paser command line parameters done.
+20:24:05 [INFO] start scan files.
+20:24:05 [INFO] scan files done. 51 files will be checked.
+20:24:05 [INFO] start check files 
+20:24:05 [INFO] check files done 
+20:24:05 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:24:43 [INFO] start to paser command line paramers.
+20:24:43 [INFO] paser command line parameters done.
+20:24:43 [INFO] start scan files.
+20:24:44 [INFO] scan files done. 3617 files will be checked.
+20:24:44 [INFO] start check files 
+20:24:51 [INFO] check files done 
+20:24:51 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:26:28 [INFO] start to paser command line paramers.
+20:26:28 [INFO] paser command line parameters done.
+20:26:28 [INFO] start scan files.
+20:26:28 [INFO] scan files done. 51 files will be checked.
+20:26:28 [INFO] start check files 
+20:26:28 [INFO] check files done 
+20:26:28 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:29:52 [INFO] start to paser command line paramers.
+20:29:52 [INFO] paser command line parameters done.
+20:29:52 [INFO] start scan files.
+20:29:52 [INFO] scan files done. 51 files will be checked.
+20:29:52 [INFO] start check files 
+20:29:52 [INFO] check files done 
+20:29:52 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:30:22 [INFO] start to paser command line paramers.
+20:30:22 [INFO] paser command line parameters done.
+20:30:22 [INFO] start scan files.
+20:30:22 [INFO] scan files done. 51 files will be checked.
+20:30:22 [INFO] start check files 
+20:30:22 [INFO] check files done 
+20:30:22 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:37:37 [INFO] start to paser command line paramers.
+20:37:53 [INFO] start to paser command line paramers.
+20:38:05 [INFO] start to paser command line paramers.
+20:39:14 [INFO] start to paser command line paramers.
+20:39:20 [INFO] start to paser command line paramers.
+20:39:28 [INFO] start to paser command line paramers.
+20:39:33 [INFO] start to paser command line paramers.
+20:39:56 [INFO] start to paser command line paramers.
+20:40:06 [INFO] start to paser command line paramers.
+20:40:12 [INFO] start to paser command line paramers.
+20:40:19 [INFO] start to paser command line paramers.
+20:40:58 [INFO] start to paser command line paramers.
+20:43:23 [INFO] start to paser command line paramers.
+20:43:40 [INFO] start to paser command line paramers.
+20:43:42 [INFO] start to paser command line paramers.
+20:43:50 [INFO] start to paser command line paramers.
+20:43:52 [INFO] start to paser command line paramers.
+20:46:44 [INFO] start to paser command line paramers.
+20:46:44 [INFO] paser command line parameters done.
+20:46:44 [INFO] start scan files.
+20:46:44 [INFO] scan files done. 51 files will be checked.
+20:46:44 [INFO] start check files 
+20:46:44 [INFO] check files done 
+20:46:44 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:47:06 [INFO] start to paser command line paramers.
+20:47:06 [INFO] paser command line parameters done.
+20:47:06 [INFO] start scan files.
+20:47:06 [INFO] scan files done. 51 files will be checked.
+20:47:06 [INFO] start check files 
+20:47:06 [INFO] check files done 
+20:47:06 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:47:29 [INFO] start to paser command line paramers.
+20:47:29 [INFO] paser command line parameters done.
+20:47:29 [INFO] start scan files.
+20:47:29 [INFO] scan files done. 51 files will be checked.
+20:47:29 [INFO] start check files 
+20:47:29 [INFO] check files done 
+20:47:29 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:47:57 [INFO] start to paser command line paramers.
+20:47:57 [INFO] paser command line parameters done.
+20:47:57 [INFO] start scan files.
+20:47:57 [INFO] scan files done. 51 files will be checked.
+20:47:57 [INFO] start check files 
+20:47:57 [INFO] check files done 
+20:47:57 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:48:04 [INFO] start to paser command line paramers.
+20:48:04 [INFO] paser command line parameters done.
+20:48:04 [INFO] start scan files.
+20:48:04 [INFO] scan files done. 51 files will be checked.
+20:48:04 [INFO] start check files 
+20:48:04 [INFO] check files done 
+20:48:04 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:48:14 [INFO] start to paser command line paramers.
+20:48:14 [INFO] paser command line parameters done.
+20:48:14 [INFO] start scan files.
+20:48:14 [INFO] scan files done. 51 files will be checked.
+20:48:14 [INFO] start check files 
+20:48:14 [INFO] check files done 
+20:48:14 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:48:25 [INFO] start to paser command line paramers.
+20:48:25 [INFO] paser command line parameters done.
+20:48:25 [INFO] start scan files.
+20:48:25 [INFO] scan files done. 51 files will be checked.
+20:48:25 [INFO] start check files 
+20:48:25 [INFO] check files done 
+20:48:25 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:48:56 [INFO] start to paser command line paramers.
+20:48:56 [INFO] paser command line parameters done.
+20:48:56 [INFO] start scan files.
+20:48:56 [INFO] scan files done. 51 files will be checked.
+20:48:56 [INFO] start check files 
+20:48:56 [INFO] check files done 
+20:48:56 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:49:07 [INFO] start to paser command line paramers.
+20:49:07 [INFO] paser command line parameters done.
+20:49:07 [INFO] start scan files.
+20:49:07 [INFO] scan files done. 51 files will be checked.
+20:49:07 [INFO] start check files 
+20:49:07 [INFO] check files done 
+20:49:07 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:49:54 [INFO] start to paser command line paramers.
+20:49:54 [INFO] paser command line parameters done.
+20:49:54 [INFO] start scan files.
+20:49:54 [INFO] scan files done. 51 files will be checked.
+20:49:54 [INFO] start check files 
+20:49:54 [INFO] check files done 
+20:49:54 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:50:08 [INFO] start to paser command line paramers.
+20:50:08 [INFO] paser command line parameters done.
+20:50:08 [INFO] start scan files.
+20:50:08 [INFO] scan files done. 51 files will be checked.
+20:50:08 [INFO] start check files 
+20:50:08 [INFO] check files done 
+20:50:08 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:06 [INFO] start to paser command line paramers.
+20:51:06 [INFO] paser command line parameters done.
+20:51:06 [INFO] start scan files.
+20:51:06 [INFO] scan files done. 51 files will be checked.
+20:51:06 [INFO] start check files 
+20:51:06 [INFO] check files done 
+20:51:06 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:08 [INFO] start to paser command line paramers.
+20:51:08 [INFO] paser command line parameters done.
+20:51:08 [INFO] start scan files.
+20:51:08 [INFO] scan files done. 51 files will be checked.
+20:51:08 [INFO] start check files 
+20:51:08 [INFO] check files done 
+20:51:08 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:09 [INFO] start to paser command line paramers.
+20:51:09 [INFO] paser command line parameters done.
+20:51:09 [INFO] start scan files.
+20:51:09 [INFO] scan files done. 51 files will be checked.
+20:51:09 [INFO] start check files 
+20:51:09 [INFO] check files done 
+20:51:09 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:10 [INFO] start to paser command line paramers.
+20:51:10 [INFO] paser command line parameters done.
+20:51:10 [INFO] start scan files.
+20:51:10 [INFO] scan files done. 51 files will be checked.
+20:51:10 [INFO] start check files 
+20:51:10 [INFO] check files done 
+20:51:10 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:11 [INFO] start to paser command line paramers.
+20:51:11 [INFO] paser command line parameters done.
+20:51:11 [INFO] start scan files.
+20:51:11 [INFO] scan files done. 51 files will be checked.
+20:51:11 [INFO] start check files 
+20:51:11 [INFO] check files done 
+20:51:11 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:11 [INFO] start to paser command line paramers.
+20:51:11 [INFO] paser command line parameters done.
+20:51:11 [INFO] start scan files.
+20:51:12 [INFO] scan files done. 51 files will be checked.
+20:51:12 [INFO] start check files 
+20:51:12 [INFO] check files done 
+20:51:12 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:35 [INFO] start to paser command line paramers.
+20:51:35 [INFO] paser command line parameters done.
+20:51:35 [INFO] start scan files.
+20:51:35 [INFO] scan files done. 51 files will be checked.
+20:51:35 [INFO] start check files 
+20:51:35 [INFO] check files done 
+20:51:35 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:51:38 [INFO] start to paser command line paramers.
+20:52:13 [INFO] start to paser command line paramers.
+20:52:45 [INFO] start to paser command line paramers.
+20:53:04 [INFO] start to paser command line paramers.
+20:53:10 [INFO] start to paser command line paramers.
+20:55:00 [INFO] start to paser command line paramers.
+20:55:26 [INFO] start to paser command line paramers.
+20:55:26 [INFO] paser command line parameters done.
+20:55:26 [INFO] start scan files.
+20:55:26 [INFO] scan files done. 55 files will be checked.
+20:55:26 [INFO] start check files 
+20:55:26 [INFO] check files done 
+20:55:26 [INFO] create report to D:\yocheck/result/2014-07-13.html
+20:56:05 [INFO] start to paser command line paramers.
+20:56:05 [INFO] paser command line parameters done.
+20:56:05 [INFO] start scan files.
+20:56:05 [INFO] scan files done. 51 files will be checked.
+20:56:05 [INFO] start check files 
+20:56:05 [INFO] check files done 
+20:56:05 [INFO] create report to D:\123.html/2014-07-13.html
+20:58:33 [INFO] start to paser command line paramers.
+20:58:33 [INFO] paser command line parameters done.
+20:58:33 [INFO] start scan files.
+20:58:33 [INFO] scan files done. 51 files will be checked.
+20:58:33 [INFO] start check files 
+20:58:33 [INFO] check files done 
+20:58:33 [INFO] create report to D:\yocheck/result/2014-07-13
+20:59:57 [INFO] start to paser command line paramers.
+20:59:57 [INFO] paser command line parameters done.
+20:59:57 [INFO] start scan files.
+20:59:57 [INFO] scan files done. 51 files will be checked.
+20:59:57 [INFO] start check files 
+20:59:57 [INFO] check files done 
+20:59:57 [INFO] create report to D:\yocheck/result/2014-07-13html
+21:00:17 [INFO] start to paser command line paramers.
+21:00:17 [INFO] paser command line parameters done.
+21:00:17 [INFO] start scan files.
+21:00:17 [INFO] scan files done. 51 files will be checked.
+21:00:17 [INFO] start check files 
+21:00:17 [INFO] check files done 
+21:00:17 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:01:51 [INFO] start to paser command line paramers.
+21:01:51 [INFO] paser command line parameters done.
+21:01:51 [INFO] start scan files.
+21:01:51 [INFO] scan files done. 51 files will be checked.
+21:01:51 [INFO] start check files 
+21:01:51 [INFO] check files done 
+21:01:51 [INFO] create report to D:\123.html
+21:02:44 [INFO] start to paser command line paramers.
+21:02:44 [INFO] paser command line parameters done.
+21:02:44 [INFO] start scan files.
+21:02:44 [INFO] scan files done. 51 files will be checked.
+21:02:44 [INFO] start check files 
+21:02:44 [INFO] check files done 
+21:02:44 [INFO] create report to D:\123.html
+21:02:56 [INFO] start to paser command line paramers.
+21:02:56 [INFO] paser command line parameters done.
+21:02:56 [INFO] start scan files.
+21:02:56 [INFO] scan files done. 51 files will be checked.
+21:02:56 [INFO] start check files 
+21:02:56 [INFO] check files done 
+21:02:56 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:04:22 [INFO] start to paser command line paramers.
+21:04:22 [INFO] paser command line parameters done.
+21:04:22 [INFO] start scan files.
+21:04:22 [INFO] scan files done. 51 files will be checked.
+21:04:22 [INFO] start check files 
+21:04:22 [INFO] check files done 
+21:04:22 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:04:23 [INFO] start to paser command line paramers.
+21:04:23 [INFO] paser command line parameters done.
+21:04:23 [INFO] start scan files.
+21:04:23 [INFO] scan files done. 51 files will be checked.
+21:04:23 [INFO] start check files 
+21:04:23 [INFO] check files done 
+21:04:23 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:04:24 [INFO] start to paser command line paramers.
+21:04:24 [INFO] paser command line parameters done.
+21:04:24 [INFO] start scan files.
+21:04:24 [INFO] scan files done. 51 files will be checked.
+21:04:24 [INFO] start check files 
+21:04:24 [INFO] check files done 
+21:04:24 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:08 [INFO] start to paser command line paramers.
+21:06:08 [INFO] paser command line parameters done.
+21:06:08 [INFO] start scan files.
+21:06:08 [INFO] scan files done. 51 files will be checked.
+21:06:08 [INFO] start check files 
+21:06:08 [INFO] check files done 
+21:06:08 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:12 [INFO] start to paser command line paramers.
+21:06:12 [INFO] paser command line parameters done.
+21:06:12 [INFO] start scan files.
+21:06:12 [INFO] scan files done. 51 files will be checked.
+21:06:12 [INFO] start check files 
+21:06:12 [INFO] check files done 
+21:06:12 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:13 [INFO] start to paser command line paramers.
+21:06:13 [INFO] paser command line parameters done.
+21:06:13 [INFO] start scan files.
+21:06:13 [INFO] scan files done. 51 files will be checked.
+21:06:13 [INFO] start check files 
+21:06:13 [INFO] check files done 
+21:06:13 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:13 [INFO] start to paser command line paramers.
+21:06:13 [INFO] paser command line parameters done.
+21:06:13 [INFO] start scan files.
+21:06:14 [INFO] scan files done. 51 files will be checked.
+21:06:14 [INFO] start check files 
+21:06:14 [INFO] check files done 
+21:06:14 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:14 [INFO] start to paser command line paramers.
+21:06:14 [INFO] paser command line parameters done.
+21:06:14 [INFO] start scan files.
+21:06:14 [INFO] scan files done. 51 files will be checked.
+21:06:14 [INFO] start check files 
+21:06:14 [INFO] check files done 
+21:06:14 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:15 [INFO] start to paser command line paramers.
+21:06:15 [INFO] paser command line parameters done.
+21:06:15 [INFO] start scan files.
+21:06:15 [INFO] scan files done. 51 files will be checked.
+21:06:15 [INFO] start check files 
+21:06:15 [INFO] check files done 
+21:06:15 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:16 [INFO] start to paser command line paramers.
+21:06:16 [INFO] paser command line parameters done.
+21:06:16 [INFO] start scan files.
+21:06:16 [INFO] scan files done. 51 files will be checked.
+21:06:16 [INFO] start check files 
+21:06:16 [INFO] check files done 
+21:06:16 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:16 [INFO] start to paser command line paramers.
+21:06:16 [INFO] paser command line parameters done.
+21:06:16 [INFO] start scan files.
+21:06:16 [INFO] scan files done. 51 files will be checked.
+21:06:16 [INFO] start check files 
+21:06:16 [INFO] check files done 
+21:06:16 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:17 [INFO] start to paser command line paramers.
+21:06:17 [INFO] paser command line parameters done.
+21:06:17 [INFO] start scan files.
+21:06:17 [INFO] scan files done. 51 files will be checked.
+21:06:17 [INFO] start check files 
+21:06:17 [INFO] check files done 
+21:06:17 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:18 [INFO] start to paser command line paramers.
+21:06:18 [INFO] paser command line parameters done.
+21:06:18 [INFO] start scan files.
+21:06:18 [INFO] scan files done. 51 files will be checked.
+21:06:18 [INFO] start check files 
+21:06:18 [INFO] check files done 
+21:06:18 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:19 [INFO] start to paser command line paramers.
+21:06:19 [INFO] paser command line parameters done.
+21:06:19 [INFO] start scan files.
+21:06:19 [INFO] scan files done. 51 files will be checked.
+21:06:19 [INFO] start check files 
+21:06:19 [INFO] check files done 
+21:06:19 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:20 [INFO] start to paser command line paramers.
+21:06:20 [INFO] paser command line parameters done.
+21:06:20 [INFO] start scan files.
+21:06:20 [INFO] scan files done. 51 files will be checked.
+21:06:20 [INFO] start check files 
+21:06:20 [INFO] check files done 
+21:06:20 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:20 [INFO] start to paser command line paramers.
+21:06:20 [INFO] paser command line parameters done.
+21:06:20 [INFO] start scan files.
+21:06:20 [INFO] scan files done. 51 files will be checked.
+21:06:20 [INFO] start check files 
+21:06:20 [INFO] check files done 
+21:06:20 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:21 [INFO] start to paser command line paramers.
+21:06:21 [INFO] paser command line parameters done.
+21:06:21 [INFO] start scan files.
+21:06:21 [INFO] scan files done. 51 files will be checked.
+21:06:21 [INFO] start check files 
+21:06:21 [INFO] check files done 
+21:06:21 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:39 [INFO] start to paser command line paramers.
+21:06:39 [INFO] paser command line parameters done.
+21:06:39 [INFO] start scan files.
+21:06:39 [INFO] scan files done. 51 files will be checked.
+21:06:39 [INFO] start check files 
+21:06:39 [INFO] check files done 
+21:06:39 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:43 [INFO] start to paser command line paramers.
+21:06:43 [INFO] paser command line parameters done.
+21:06:43 [INFO] start scan files.
+21:06:43 [INFO] scan files done. 51 files will be checked.
+21:06:43 [INFO] start check files 
+21:06:43 [INFO] check files done 
+21:06:43 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:44 [INFO] start to paser command line paramers.
+21:06:44 [INFO] paser command line parameters done.
+21:06:44 [INFO] start scan files.
+21:06:44 [INFO] scan files done. 51 files will be checked.
+21:06:44 [INFO] start check files 
+21:06:44 [INFO] check files done 
+21:06:44 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:45 [INFO] start to paser command line paramers.
+21:06:45 [INFO] paser command line parameters done.
+21:06:45 [INFO] start scan files.
+21:06:45 [INFO] scan files done. 51 files will be checked.
+21:06:45 [INFO] start check files 
+21:06:45 [INFO] check files done 
+21:06:45 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:46 [INFO] start to paser command line paramers.
+21:06:46 [INFO] paser command line parameters done.
+21:06:46 [INFO] start scan files.
+21:06:46 [INFO] scan files done. 51 files will be checked.
+21:06:46 [INFO] start check files 
+21:06:46 [INFO] check files done 
+21:06:46 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:46 [INFO] start to paser command line paramers.
+21:06:46 [INFO] paser command line parameters done.
+21:06:46 [INFO] start scan files.
+21:06:46 [INFO] scan files done. 51 files will be checked.
+21:06:46 [INFO] start check files 
+21:06:46 [INFO] check files done 
+21:06:46 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:47 [INFO] start to paser command line paramers.
+21:06:47 [INFO] paser command line parameters done.
+21:06:47 [INFO] start scan files.
+21:06:47 [INFO] scan files done. 51 files will be checked.
+21:06:47 [INFO] start check files 
+21:06:47 [INFO] check files done 
+21:06:47 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:48 [INFO] start to paser command line paramers.
+21:06:48 [INFO] paser command line parameters done.
+21:06:48 [INFO] start scan files.
+21:06:48 [INFO] scan files done. 51 files will be checked.
+21:06:48 [INFO] start check files 
+21:06:48 [INFO] check files done 
+21:06:48 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:48 [INFO] start to paser command line paramers.
+21:06:48 [INFO] paser command line parameters done.
+21:06:48 [INFO] start scan files.
+21:06:48 [INFO] scan files done. 51 files will be checked.
+21:06:48 [INFO] start check files 
+21:06:48 [INFO] check files done 
+21:06:48 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:49 [INFO] start to paser command line paramers.
+21:06:49 [INFO] paser command line parameters done.
+21:06:49 [INFO] start scan files.
+21:06:49 [INFO] scan files done. 51 files will be checked.
+21:06:49 [INFO] start check files 
+21:06:49 [INFO] check files done 
+21:06:49 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:50 [INFO] start to paser command line paramers.
+21:06:50 [INFO] paser command line parameters done.
+21:06:50 [INFO] start scan files.
+21:06:50 [INFO] scan files done. 51 files will be checked.
+21:06:50 [INFO] start check files 
+21:06:50 [INFO] check files done 
+21:06:50 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:50 [INFO] start to paser command line paramers.
+21:06:50 [INFO] paser command line parameters done.
+21:06:50 [INFO] start scan files.
+21:06:50 [INFO] scan files done. 51 files will be checked.
+21:06:50 [INFO] start check files 
+21:06:50 [INFO] check files done 
+21:06:50 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:51 [INFO] start to paser command line paramers.
+21:06:51 [INFO] paser command line parameters done.
+21:06:51 [INFO] start scan files.
+21:06:51 [INFO] scan files done. 51 files will be checked.
+21:06:51 [INFO] start check files 
+21:06:51 [INFO] check files done 
+21:06:51 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:52 [INFO] start to paser command line paramers.
+21:06:52 [INFO] paser command line parameters done.
+21:06:52 [INFO] start scan files.
+21:06:52 [INFO] scan files done. 51 files will be checked.
+21:06:52 [INFO] start check files 
+21:06:52 [INFO] check files done 
+21:06:52 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:52 [INFO] start to paser command line paramers.
+21:06:52 [INFO] paser command line parameters done.
+21:06:52 [INFO] start scan files.
+21:06:52 [INFO] scan files done. 51 files will be checked.
+21:06:52 [INFO] start check files 
+21:06:52 [INFO] check files done 
+21:06:52 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:53 [INFO] start to paser command line paramers.
+21:06:53 [INFO] paser command line parameters done.
+21:06:53 [INFO] start scan files.
+21:06:53 [INFO] scan files done. 51 files will be checked.
+21:06:53 [INFO] start check files 
+21:06:53 [INFO] check files done 
+21:06:53 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:54 [INFO] start to paser command line paramers.
+21:06:54 [INFO] paser command line parameters done.
+21:06:54 [INFO] start scan files.
+21:06:54 [INFO] scan files done. 51 files will be checked.
+21:06:54 [INFO] start check files 
+21:06:54 [INFO] check files done 
+21:06:54 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:55 [INFO] start to paser command line paramers.
+21:06:55 [INFO] paser command line parameters done.
+21:06:55 [INFO] start scan files.
+21:06:55 [INFO] scan files done. 51 files will be checked.
+21:06:55 [INFO] start check files 
+21:06:55 [INFO] check files done 
+21:06:55 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:56 [INFO] start to paser command line paramers.
+21:06:56 [INFO] paser command line parameters done.
+21:06:56 [INFO] start scan files.
+21:06:56 [INFO] scan files done. 51 files will be checked.
+21:06:56 [INFO] start check files 
+21:06:56 [INFO] check files done 
+21:06:56 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:57 [INFO] start to paser command line paramers.
+21:06:57 [INFO] paser command line parameters done.
+21:06:57 [INFO] start scan files.
+21:06:57 [INFO] scan files done. 51 files will be checked.
+21:06:57 [INFO] start check files 
+21:06:57 [INFO] check files done 
+21:06:57 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:57 [INFO] start to paser command line paramers.
+21:06:57 [INFO] paser command line parameters done.
+21:06:57 [INFO] start scan files.
+21:06:57 [INFO] scan files done. 51 files will be checked.
+21:06:57 [INFO] start check files 
+21:06:57 [INFO] check files done 
+21:06:57 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:58 [INFO] start to paser command line paramers.
+21:06:58 [INFO] paser command line parameters done.
+21:06:58 [INFO] start scan files.
+21:06:58 [INFO] scan files done. 51 files will be checked.
+21:06:58 [INFO] start check files 
+21:06:58 [INFO] check files done 
+21:06:58 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:59 [INFO] start to paser command line paramers.
+21:06:59 [INFO] paser command line parameters done.
+21:06:59 [INFO] start scan files.
+21:06:59 [INFO] scan files done. 51 files will be checked.
+21:06:59 [INFO] start check files 
+21:06:59 [INFO] check files done 
+21:06:59 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:06:59 [INFO] start to paser command line paramers.
+21:06:59 [INFO] paser command line parameters done.
+21:06:59 [INFO] start scan files.
+21:06:59 [INFO] scan files done. 51 files will be checked.
+21:06:59 [INFO] start check files 
+21:06:59 [INFO] check files done 
+21:06:59 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:07:00 [INFO] start to paser command line paramers.
+21:07:00 [INFO] paser command line parameters done.
+21:07:00 [INFO] start scan files.
+21:07:00 [INFO] scan files done. 51 files will be checked.
+21:07:00 [INFO] start check files 
+21:07:00 [INFO] check files done 
+21:07:00 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:07:01 [INFO] start to paser command line paramers.
+21:07:01 [INFO] paser command line parameters done.
+21:07:01 [INFO] start scan files.
+21:07:01 [INFO] scan files done. 51 files will be checked.
+21:07:01 [INFO] start check files 
+21:07:01 [INFO] check files done 
+21:07:01 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:34 [INFO] start to paser command line paramers.
+21:08:34 [INFO] paser command line parameters done.
+21:08:34 [INFO] start scan files.
+21:08:34 [INFO] scan files done. 51 files will be checked.
+21:08:34 [INFO] start check files 
+21:08:34 [INFO] check files done 
+21:08:34 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:35 [INFO] start to paser command line paramers.
+21:08:35 [INFO] paser command line parameters done.
+21:08:35 [INFO] start scan files.
+21:08:35 [INFO] scan files done. 51 files will be checked.
+21:08:35 [INFO] start check files 
+21:08:35 [INFO] check files done 
+21:08:35 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:36 [INFO] start to paser command line paramers.
+21:08:36 [INFO] paser command line parameters done.
+21:08:36 [INFO] start scan files.
+21:08:36 [INFO] scan files done. 51 files will be checked.
+21:08:36 [INFO] start check files 
+21:08:36 [INFO] check files done 
+21:08:36 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:37 [INFO] start to paser command line paramers.
+21:08:37 [INFO] paser command line parameters done.
+21:08:37 [INFO] start scan files.
+21:08:37 [INFO] scan files done. 51 files will be checked.
+21:08:37 [INFO] start check files 
+21:08:37 [INFO] check files done 
+21:08:37 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:37 [INFO] start to paser command line paramers.
+21:08:37 [INFO] paser command line parameters done.
+21:08:37 [INFO] start scan files.
+21:08:37 [INFO] scan files done. 51 files will be checked.
+21:08:37 [INFO] start check files 
+21:08:37 [INFO] check files done 
+21:08:37 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:38 [INFO] start to paser command line paramers.
+21:08:38 [INFO] paser command line parameters done.
+21:08:38 [INFO] start scan files.
+21:08:38 [INFO] scan files done. 51 files will be checked.
+21:08:38 [INFO] start check files 
+21:08:38 [INFO] check files done 
+21:08:38 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:39 [INFO] start to paser command line paramers.
+21:08:39 [INFO] paser command line parameters done.
+21:08:39 [INFO] start scan files.
+21:08:39 [INFO] scan files done. 51 files will be checked.
+21:08:39 [INFO] start check files 
+21:08:39 [INFO] check files done 
+21:08:39 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:39 [INFO] start to paser command line paramers.
+21:08:39 [INFO] paser command line parameters done.
+21:08:39 [INFO] start scan files.
+21:08:39 [INFO] scan files done. 51 files will be checked.
+21:08:39 [INFO] start check files 
+21:08:39 [INFO] check files done 
+21:08:39 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:40 [INFO] start to paser command line paramers.
+21:08:40 [INFO] paser command line parameters done.
+21:08:40 [INFO] start scan files.
+21:08:40 [INFO] scan files done. 51 files will be checked.
+21:08:40 [INFO] start check files 
+21:08:40 [INFO] check files done 
+21:08:40 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:41 [INFO] start to paser command line paramers.
+21:08:41 [INFO] paser command line parameters done.
+21:08:41 [INFO] start scan files.
+21:08:41 [INFO] scan files done. 51 files will be checked.
+21:08:41 [INFO] start check files 
+21:08:41 [INFO] check files done 
+21:08:41 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:41 [INFO] start to paser command line paramers.
+21:08:41 [INFO] paser command line parameters done.
+21:08:42 [INFO] start scan files.
+21:08:42 [INFO] scan files done. 51 files will be checked.
+21:08:42 [INFO] start check files 
+21:08:42 [INFO] check files done 
+21:08:42 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:42 [INFO] start to paser command line paramers.
+21:08:42 [INFO] paser command line parameters done.
+21:08:42 [INFO] start scan files.
+21:08:42 [INFO] scan files done. 51 files will be checked.
+21:08:42 [INFO] start check files 
+21:08:42 [INFO] check files done 
+21:08:42 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:43 [INFO] start to paser command line paramers.
+21:08:43 [INFO] paser command line parameters done.
+21:08:43 [INFO] start scan files.
+21:08:43 [INFO] scan files done. 51 files will be checked.
+21:08:43 [INFO] start check files 
+21:08:43 [INFO] check files done 
+21:08:43 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:44 [INFO] start to paser command line paramers.
+21:08:44 [INFO] paser command line parameters done.
+21:08:44 [INFO] start scan files.
+21:08:44 [INFO] scan files done. 51 files will be checked.
+21:08:44 [INFO] start check files 
+21:08:44 [INFO] check files done 
+21:08:44 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:44 [INFO] start to paser command line paramers.
+21:08:44 [INFO] paser command line parameters done.
+21:08:44 [INFO] start scan files.
+21:08:44 [INFO] scan files done. 51 files will be checked.
+21:08:44 [INFO] start check files 
+21:08:44 [INFO] check files done 
+21:08:44 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:08:47 [INFO] start to paser command line paramers.
+21:08:47 [INFO] paser command line parameters done.
+21:08:47 [INFO] start scan files.
+21:08:47 [INFO] scan files done. 51 files will be checked.
+21:08:47 [INFO] start check files 
+21:08:47 [INFO] check files done 
+21:08:47 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:09:04 [INFO] start to paser command line paramers.
+21:09:04 [INFO] paser command line parameters done.
+21:09:04 [INFO] start scan files.
+21:09:04 [INFO] scan files done. 51 files will be checked.
+21:09:04 [INFO] start check files 
+21:09:04 [INFO] check files done 
+21:09:04 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:09:05 [INFO] start to paser command line paramers.
+21:09:05 [INFO] paser command line parameters done.
+21:09:05 [INFO] start scan files.
+21:09:05 [INFO] scan files done. 51 files will be checked.
+21:09:05 [INFO] start check files 
+21:09:05 [INFO] check files done 
+21:09:05 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:09:05 [INFO] start to paser command line paramers.
+21:09:05 [INFO] paser command line parameters done.
+21:09:05 [INFO] start scan files.
+21:09:05 [INFO] scan files done. 51 files will be checked.
+21:09:05 [INFO] start check files 
+21:09:05 [INFO] check files done 
+21:09:05 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:09:06 [INFO] start to paser command line paramers.
+21:09:06 [INFO] paser command line parameters done.
+21:09:06 [INFO] start scan files.
+21:09:06 [INFO] scan files done. 51 files will be checked.
+21:09:06 [INFO] start check files 
+21:09:06 [INFO] check files done 
+21:09:06 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:09:07 [INFO] start to paser command line paramers.
+21:09:07 [INFO] paser command line parameters done.
+21:09:07 [INFO] start scan files.
+21:09:07 [INFO] scan files done. 51 files will be checked.
+21:09:07 [INFO] start check files 
+21:09:07 [INFO] check files done 
+21:09:07 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:09:12 [INFO] start to paser command line paramers.
+21:09:12 [INFO] paser command line parameters done.
+21:09:12 [INFO] start scan files.
+21:09:12 [INFO] scan files done. 51 files will be checked.
+21:09:12 [INFO] start check files 
+21:09:12 [INFO] check files done 
+21:09:12 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:09:49 [INFO] start to paser command line paramers.
+21:09:49 [INFO] paser command line parameters done.
+21:09:49 [INFO] start scan files.
+21:09:49 [INFO] scan files done. 51 files will be checked.
+21:09:49 [INFO] start check files 
+21:09:49 [INFO] check files done 
+21:09:49 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:19:01 [INFO] start to paser command line paramers.
+21:19:01 [INFO] paser command line parameters done.
+21:19:01 [INFO] start scan files.
+21:19:01 [INFO] scan files done. 51 files will be checked.
+21:19:22 [INFO] start to paser command line paramers.
+21:19:22 [INFO] paser command line parameters done.
+21:19:22 [INFO] start scan files.
+21:19:22 [INFO] scan files done. 51 files will be checked.
+21:19:22 [INFO] start check files 
+21:19:23 [INFO] check files done 
+21:19:23 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:22:06 [INFO] start to paser command line paramers.
+21:22:06 [INFO] paser command line parameters done.
+21:22:06 [INFO] start scan files.
+21:22:06 [INFO] scan files done. 51 files will be checked.
+21:22:06 [INFO] start check files 
+21:22:06 [INFO] check files done 
+21:22:06 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:25:47 [INFO] start to paser command line paramers.
+21:25:47 [INFO] paser command line parameters done.
+21:25:47 [INFO] start scan files.
+21:25:47 [INFO] scan files done. 51 files will be checked.
+21:25:47 [INFO] start check files 
+21:25:47 [INFO] check files done 
+21:25:47 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:27:36 [INFO] start to paser command line paramers.
+21:27:36 [INFO] paser command line parameters done.
+21:27:36 [INFO] start scan files.
+21:27:36 [INFO] scan files done. 51 files will be checked.
+21:27:36 [INFO] start check files 
+21:27:36 [INFO] check files done 
+21:27:36 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:28:23 [INFO] start to paser command line paramers.
+21:28:23 [INFO] paser command line parameters done.
+21:28:23 [INFO] start scan files.
+21:28:23 [INFO] scan files done. 51 files will be checked.
+21:28:23 [INFO] start check files 
+21:28:23 [INFO] check files done 
+21:28:23 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:31:42 [INFO] start to paser command line paramers.
+21:31:42 [INFO] paser command line parameters done.
+21:31:42 [INFO] start scan files.
+21:31:42 [INFO] scan files done. 51 files will be checked.
+21:31:42 [INFO] start check files 
+21:31:42 [INFO] check files done 
+21:31:42 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:33:53 [INFO] start to paser command line paramers.
+21:33:53 [INFO] paser command line parameters done.
+21:33:53 [INFO] start scan files.
+21:33:53 [INFO] scan files done. 51 files will be checked.
+21:33:53 [INFO] start check files 
+21:33:53 [INFO] check files done 
+21:33:53 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:34:34 [INFO] start to paser command line paramers.
+21:34:34 [INFO] paser command line parameters done.
+21:34:34 [INFO] start scan files.
+21:34:34 [INFO] scan files done. 51 files will be checked.
+21:34:34 [INFO] start check files 
+21:34:34 [INFO] check files done 
+21:34:34 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:37:12 [INFO] start to paser command line paramers.
+21:37:12 [INFO] paser command line parameters done.
+21:37:12 [INFO] start scan files.
+21:37:12 [INFO] scan files done. 51 files will be checked.
+21:37:12 [INFO] start check files 
+21:37:12 [INFO] check files done 
+21:37:12 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:39:27 [INFO] start to paser command line paramers.
+21:39:27 [INFO] paser command line parameters done.
+21:39:27 [INFO] start scan files.
+21:39:27 [INFO] scan files done. 51 files will be checked.
+21:39:27 [INFO] start check files 
+21:39:27 [INFO] check files done 
+21:39:27 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:46:39 [INFO] start to paser command line paramers.
+21:46:39 [INFO] paser command line parameters done.
+21:46:39 [INFO] start scan files.
+21:46:39 [INFO] scan files done. 51 files will be checked.
+21:46:39 [INFO] start check files 
+21:46:39 [INFO] check files done 
+21:46:39 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:47:13 [INFO] start to paser command line paramers.
+21:47:13 [INFO] paser command line parameters done.
+21:47:13 [INFO] start scan files.
+21:47:13 [INFO] scan files done. 51 files will be checked.
+21:47:13 [INFO] start check files 
+21:47:13 [INFO] check files done 
+21:47:13 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:54:52 [INFO] start to paser command line paramers.
+21:54:52 [INFO] paser command line parameters done.
+21:54:52 [INFO] start scan files.
+21:54:52 [INFO] scan files done. 51 files will be checked.
+21:54:52 [INFO] start check files 
+21:54:52 [INFO] check files done 
+21:54:52 [INFO] create report to D:\yocheck/result/2014-07-13.html
+21:55:05 [INFO] start to paser command line paramers.
+21:55:05 [INFO] paser command line parameters done.
+21:55:05 [INFO] start scan files.
+21:55:06 [INFO] scan files done. 51 files will be checked.
+21:55:06 [INFO] start check files 
+21:55:06 [INFO] check files done 
+21:55:06 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:01:21 [INFO] start to paser command line paramers.
+22:01:21 [INFO] paser command line parameters done.
+22:01:21 [INFO] start scan files.
+22:01:21 [INFO] scan files done. 51 files will be checked.
+22:01:21 [INFO] start check files 
+22:01:21 [INFO] check files done 
+22:01:21 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:02:09 [INFO] start to paser command line paramers.
+22:02:09 [INFO] paser command line parameters done.
+22:02:09 [INFO] start scan files.
+22:02:09 [INFO] scan files done. 51 files will be checked.
+22:02:09 [INFO] start check files 
+22:02:10 [INFO] check files done 
+22:02:10 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:07:20 [INFO] start to paser command line paramers.
+22:07:20 [INFO] paser command line parameters done.
+22:07:20 [INFO] start scan files.
+22:07:20 [INFO] scan files done. 51 files will be checked.
+22:07:20 [INFO] start check files 
+22:07:20 [INFO] check files done 
+22:07:20 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:13:11 [INFO] start to paser command line paramers.
+22:13:11 [INFO] paser command line parameters done.
+22:13:11 [INFO] start scan files.
+22:13:11 [INFO] scan files done. 51 files will be checked.
+22:13:11 [INFO] start check files 
+22:13:11 [INFO] check files done 
+22:13:11 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:16:13 [INFO] start to paser command line paramers.
+22:16:13 [INFO] paser command line parameters done.
+22:16:13 [INFO] start scan files.
+22:16:13 [INFO] scan files done. 51 files will be checked.
+22:16:13 [INFO] start check files 
+22:16:13 [INFO] check files done 
+22:16:13 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:25:18 [INFO] start to paser command line paramers.
+22:25:18 [INFO] paser command line parameters done.
+22:25:18 [INFO] start scan files.
+22:25:18 [INFO] scan files done. 51 files will be checked.
+22:25:19 [INFO] start check files 
+22:25:19 [INFO] check files done 
+22:25:19 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:26:17 [INFO] start to paser command line paramers.
+22:26:17 [INFO] paser command line parameters done.
+22:26:17 [INFO] start scan files.
+22:26:18 [INFO] scan files done. 3617 files will be checked.
+22:26:18 [INFO] start check files 
+22:26:30 [INFO] check files done 
+22:26:30 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:28:22 [INFO] start to paser command line paramers.
+22:28:22 [INFO] paser command line parameters done.
+22:28:22 [INFO] start scan files.
+22:28:23 [INFO] scan files done. 3617 files will be checked.
+22:28:23 [INFO] start check files 
+22:28:33 [INFO] check files done 
+22:28:33 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:31:26 [INFO] start to paser command line paramers.
+22:31:26 [INFO] paser command line parameters done.
+22:31:26 [INFO] start scan files.
+22:31:28 [INFO] scan files done. 51 files will be checked.
+22:31:28 [INFO] start check files 
+22:31:28 [INFO] check files done 
+22:31:28 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:32:47 [INFO] start to paser command line paramers.
+22:32:47 [INFO] paser command line parameters done.
+22:32:47 [INFO] start scan files.
+22:32:47 [INFO] scan files done. 51 files will be checked.
+22:32:47 [INFO] start check files 
+22:32:47 [INFO] check files done 
+22:32:48 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:33:36 [INFO] start to paser command line paramers.
+22:33:36 [INFO] paser command line parameters done.
+22:33:36 [INFO] start scan files.
+22:33:37 [INFO] scan files done. 1759 files will be checked.
+22:33:37 [INFO] start check files 
+22:33:40 [INFO] check files done 
+22:33:40 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:43:26 [INFO] start to paser command line paramers.
+22:43:26 [INFO] paser command line parameters done.
+22:43:26 [INFO] start scan files.
+22:43:26 [INFO] scan files done. 1759 files will be checked.
+22:43:26 [INFO] start check files 
+22:43:29 [INFO] check files done 
+22:43:29 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:44:07 [INFO] start to paser command line paramers.
+22:44:07 [INFO] paser command line parameters done.
+22:44:07 [INFO] start scan files.
+22:44:07 [INFO] scan files done. 1759 files will be checked.
+22:44:07 [INFO] start check files 
+22:44:10 [INFO] check files done 
+22:44:10 [INFO] create report to D:\yocheck/result/2014-07-13.html
+22:46:08 [INFO] start to paser command line paramers.
+22:46:08 [INFO] paser command line parameters done.
+22:46:08 [INFO] start scan files.
+22:46:08 [INFO] scan files done. 1759 files will be checked.
+22:46:08 [INFO] start check files 
+22:46:11 [INFO] check files done 
+22:46:11 [INFO] create report to D:\yocheck/result/2014-07-13.html
+23:02:28 [INFO] start to paser command line paramers.
+23:02:28 [INFO] paser command line parameters done.
+23:02:28 [INFO] start scan files.
+23:02:28 [INFO] scan files done. 1 files will be checked.
+23:02:59 [INFO] start to paser command line paramers.
+23:02:59 [INFO] paser command line parameters done.
+23:02:59 [INFO] start scan files.
+23:02:59 [INFO] scan files done. 1 files will be checked.
+23:03:13 [INFO] start to paser command line paramers.
+23:03:13 [INFO] paser command line parameters done.
+23:03:13 [INFO] start scan files.
+23:03:13 [INFO] scan files done. 1 files will be checked.
+23:03:39 [INFO] start to paser command line paramers.
+23:03:39 [INFO] paser command line parameters done.
+23:03:39 [INFO] start scan files.
+23:03:39 [INFO] scan files done. 1 files will be checked.
+23:03:39 [INFO] start check files 
+23:03:39 [INFO] check files done 
+23:03:39 [INFO] create report to D:\yocheck/result/2014-07-13.html
+23:04:33 [INFO] start to paser command line paramers.
+23:04:33 [INFO] paser command line parameters done.
+23:04:33 [INFO] start scan files.
+23:04:33 [INFO] scan files done. 1 files will be checked.
+23:04:33 [INFO] start check files 
+23:04:33 [INFO] check files done 
+23:04:33 [INFO] create report to D:\yocheck/result/2014-07-13.html
+23:05:23 [INFO] start to paser command line paramers.
+23:05:23 [INFO] paser command line parameters done.
+23:05:23 [INFO] start scan files.
+23:05:23 [INFO] scan files done. 1 files will be checked.
+23:05:23 [INFO] start check files 
+23:05:23 [INFO] check files done 
+23:05:23 [INFO] create report to D:\yocheck/result/2014-07-13.html

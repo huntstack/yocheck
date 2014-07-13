@@ -4,7 +4,7 @@
  * @version yocheck 1.0
  * @author  huntstack <huntstack@gmail.com>
  * @date    2014-07-09 21:23:41
- * @site 	https://github.com/huntstack
+ * @site 	https://github.com/huntstack/yocheck
  */
 
 class Process{
@@ -41,6 +41,6 @@ class Process{
         echo "  [NOTICE]--if you have some suggestions,you can send email to \n";
         echo "            huntstack@gmail.com\n";
         echo "            or you can download the source code from \n";
-        echo "            https://github.com/huntstack.";
+        echo "            https://github.com/huntstack/yocheck.";
     }
 }

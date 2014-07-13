@@ -4,7 +4,7 @@
  * @version yocheck 1.0
  * @author  huntstack <huntstack@gmail.com>
  * @date    2014-07-12 18:38:27
- * @site 	https://github.com/huntstack
+ * @site 	https://github.com/huntstack/yocheck
  */
 
 class PHPIfMustHaveBraces implements Rules{
