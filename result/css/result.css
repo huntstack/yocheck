@@ -1,0 +1,146 @@
+@charset "UTF-8";
+html,body{
+	background-color: #E6E6E6;
+	background-position: center 20px;
+	font-family: Verdana, Geneva, sans-serif;
+	margin:0;
+	padding:0;
+	height:100%;
+}
+
+.version{
+	background-color:#003333;
+	height: 10%;
+	width: 100%;
+	/*position: absolute; */
+	filter:alpha(Opacity=80);
+	-moz-opacity:0.45;
+	opacity: 0.45;
+	z-index:100; 
+	text-align: center;
+}
+.version:hover{
+	background-color: #000000;
+	transition: all 0.2s ease-in-out;
+	-webkit-transition: all 0.2s ease-in-out; /* Safari and Chrome */
+	-o-transition: all 0.2s ease-in-out; /* Opera */
+}
+.version span{
+	color:white;
+	font-size: 52px;
+}
+.version span:hover{
+	color:#FF0033;
+}
+
+.files{
+	width:80%;
+	margin-left: 10%;
+	font-size: 18px;
+	margin-top: 10px;
+
+}
+
+.filename{
+	width:400px;
+	position: relative;
+	color: black;
+	background: white;
+}
+.filenum{
+	padding-right: 20px;
+	position:relative;
+	float: left;
+}
+.high{
+	background-color: #CC3333;
+}
+.mid{
+	background-color: #CCCC00;
+}
+.low{
+	background-color: #339933;
+}
+table {
+	font-family: "微软雅黑",Geneva,sans-serif;
+	font-size:14px;
+	border-width: 1px;
+	border-color: #999999;
+	border-collapse: collapse;
+	margin-left: 10%;
+	margin-top: 3px;
+	table-layout:fixed;/* 只有定义了表格的布局算法为fixed，下面td的定义才能起作用。 */
+	white-space:nowrap;/* 不换行 */
+	overflow:hidden;/* 内容超出宽度时隐藏超出部分的内容 */
+	text-overflow:ellipsis;/* 当对象内文本溢出时显示省略标记(...) ；需与overflow:hidden;一起使用。*/
+}
+table tr {
+	
+}
+table td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
+}
+.trcode{
+	word-break:break-all;/* 不换行 */
+}
+#code{
+	display:none;
+	top:200px;
+	left: 600px;
+	width:600px;
+	background: #272822;
+	color:#009966;
+	position: absolute;
+	font-size: 12px;
+}
+
+#description{
+	display:none;
+	top:200px;
+	right: 200px;
+	background: black;
+	position: absolute;
+	width:400px;
+	background: #272822;
+	color:#009966;
+}
+.ca{
+	position: relative; 
+    display: inline-block; 
+    padding: 0.5em 1em; 
+    border: 1px solid #d4d4d4; 
+    margin-left: 20px;
+    text-decoration: none; 
+    text-shadow: 1px 1px 0 #fff; 
+    font:11px/normal sans-serif; 
+    color: #333; 
+    white-space: nowrap; 
+    cursor: pointer; 
+    outline: none; 
+    background-color: #ececec;
+    -webkit-background-clip: padding;
+    -webkit-border-radius: 0.2em; 
+    border-radius: 0.2em; 
+}
+.ca:hover,
+.ca:focus,
+.ca:active {
+    border-color: #3072b3;
+    border-bottom-color: #2a65a0;
+    text-decoration: none; 
+    text-shadow: -1px -1px 0 rgba(0,0,0,0.3); 
+    color: #fff; 
+    background-color: #3072b3;
+}
+
+.ca:active,
+.ca.active {
+    border-color: #2a65a0;
+    border-bottom-color: #3884CF;
+    color: #fff; 
+    background-color: #3072b3;
+}
+
