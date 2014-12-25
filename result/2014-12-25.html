@@ -1,0 +1,49 @@
+<html>
+	<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="/Users/zhangle/code/yocheck/result/css/result.css">
+	<title>静态代码检查报告</title>
+	</head>
+	<body>
+	    <div class="version">
+	   		<span>yocheck 2014-12-25 01:19:17</span>
+	    </div>
+	    <script language="JavaScript">
+	    	function showCode(lineid,event){
+	    		var event = event || window.event;
+				var code = document.getElementById('code');
+				var snippet=document.getElementById(lineid+'code');
+				code.style.display='block';
+				code.style.left=event.clientX+(document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft);    
+				code.style.top=event.clientY+(document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop);     
+				code.innerHTML=snippet.innerHTML;   	 
+	    	}
+
+	    	function showDes(desid,event){
+	    		 var event = event || window.event;
+				 var description = document.getElementById('description');
+				 var snippet=document.getElementById(desid+'description');
+				 description.style.left=event.clientX+(document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft);    
+				 description.style.top=event.clientY+(document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop);
+				 description.innerHTML=snippet.innerHTML;
+				 description.style.display='block';	 
+	    	}
+	    	function hideCode(){
+				 var s = document.getElementById('code');
+				 s.style.display='none';
+	    	}
+	    	function hideDes(){
+				 var s = document.getElementById('description');
+				 s.style.display='none';
+	    	}
+
+	    	function collapseDiv(divid){
+				var d=document.getElementById(divid);
+				if(d.style.display==='block')
+					d.style.display='none';
+				else
+					d.style.display='block';
+	    	}
+	    </script><div class="files"><span class="filename">/Users/zhangle/code/dev_ibug/app-ibug/controller/iBug.php</span><button class="ca" onclick="collapseDiv(1)">点我</button><div class="filenum"><span class="high">0</span><span class="mid">0</span><span class="low">1</span></div></div><div id=1 style="display:none;"><table><tr class="low"><td>10</td><td style="width:200px">PHPClassNameChar</td><td style="width:450px" onmouseover="showCode(1,event)" onmouseout="hideCode()"><xmp>abstract class iBugController extends APF_Controller{</xmp></td><td class="trcode" style="width:350px" onmouseover="showDes(1,event)" onmouseout="hideDes()">类名只包含字母，且第一个字符大写</td></tr><span id="1code" style="display:none;"><span>7  */</span></br><span>8 apf_require_class('APF_Controller');</span></br><span>9 </span></br><span style='color:yellow;'>10 abstract class iBugController extends APF_Controller{</span></br><span>11 </span></br><span>12     protected $apf;</span></br></span><span id="1description" style="display:none;"><p>类名第一个字符大写</p></span></table></div><div id="code"></div><div id="description"></div>	</body>
+</html>	

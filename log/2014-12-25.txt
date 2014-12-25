@@ -1,0 +1,44 @@
+14:05:25 [INFO] start to paser command line paramers.
+14:06:27 [INFO] start to paser command line paramers.
+14:06:27 [INFO] paser command line parameters done.
+14:06:27 [INFO] start scan files.
+14:06:27 [INFO] scan files done. 1 files will be checked.
+14:06:27 [INFO] start check files 
+14:06:27 [INFO] check files done 
+14:06:27 [INFO] create report to /Users/zhangle/code/yocheck/result/2014-12-25.html
+01:16:48 [INFO] start to paser command line paramers.
+01:16:48 [INFO] paser command line parameters done.
+01:16:48 [INFO] start scan files.
+01:16:48 [INFO] scan files done. 1 files will be checked.
+01:16:48 [INFO] start check files 
+01:16:48 [INFO] check files done 
+01:16:48 [INFO] create report to /Users/zhangle/code/yocheck/result/2014-12-25.html
+01:17:35 [INFO] start to paser command line paramers.
+01:17:35 [INFO] paser command line parameters done.
+01:17:35 [INFO] start scan files.
+01:17:35 [INFO] scan files done. 1 files will be checked.
+01:17:35 [INFO] start check files 
+01:17:35 [INFO] check files done 
+01:17:35 [INFO] create report to /Users/zhangle/code/yocheck/result/2014-12-25.html
+01:17:41 [INFO] start to paser command line paramers.
+01:17:41 [INFO] paser command line parameters done.
+01:17:41 [INFO] start scan files.
+01:17:41 [INFO] scan files done. 1 files will be checked.
+01:17:41 [INFO] start check files 
+01:17:41 [INFO] check files done 
+01:17:41 [INFO] create report to /Users/zhangle/code/yocheck/result/2014-12-25.html
+01:18:14 [INFO] start to paser command line paramers.
+01:18:14 [INFO] paser command line parameters done.
+01:18:14 [INFO] start scan files.
+01:18:14 [INFO] scan files done. 1 files will be checked.
+01:18:14 [INFO] start check files 
+01:18:14 [INFO] check files done 
+01:18:14 [INFO] create report to /Users/zhangle/code/yocheck/result/2014-12-25.html
+01:19:17 [INFO] start to paser command line paramers.
+01:19:17 [INFO] paser command line parameters done.
+01:19:17 [INFO] start scan files.
+01:19:17 [INFO] scan files done. 1 files will be checked.
+01:19:17 [INFO] start check files 
+01:19:17 [INFO] check files done 
+01:19:17 [INFO] create report to /Users/zhangle/code/yocheck/result/2014-12-25.html
+01:21:36 [INFO] start to paser command line paramers.

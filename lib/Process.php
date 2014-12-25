@@ -41,6 +41,6 @@ class Process{
         echo "  [NOTICE]--if you have some suggestions,you can send email to \n";
         echo "            huntstack@gmail.com\n";
         echo "            or you can download the source code from \n";
-        echo "            https://github.com/huntstack/yocheck.";
+        echo "            https://github.com/huntstack/yocheck.\n";
     }
 }
