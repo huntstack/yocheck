@@ -42,3 +42,5 @@
 01:19:17 [INFO] check files done 
 01:19:17 [INFO] create report to /Users/zhangle/code/yocheck/result/2014-12-25.html
 01:21:36 [INFO] start to paser command line paramers.
+01:34:46 [INFO] start to paser command line paramers.
+01:35:18 [INFO] start to paser command line paramers.
